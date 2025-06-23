@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
+      "minecraft:mangrove_swamp": "2025-06-23 22:18:39 +0000",
       "minecraft:river": "2025-06-23 03:36:17 +0000",
       "minecraft:desert": "2025-06-23 03:36:00 +0000"
     },
@@ -2131,6 +2132,36 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-06-23 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-06-23 22:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-23 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-23 22:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-23 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-23 22:39:01 +0000"
     },
     "done": true
   },
