@@ -822,3 +822,17 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [23Jun2025 23:16:43.426] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [23Jun2025 23:16:43.450] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [23Jun2025 23:18:45.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Most Useful Key]
+[23Jun2025 23:26:02.381] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[23Jun2025 23:26:02.383] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[23Jun2025 23:26:21.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [A Fast Comeback]
+[23Jun2025 23:29:03.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[23Jun2025 23:29:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[23Jun2025 23:29:05.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:54242] logged in with entity id 57811 at (-829.3000000119209, 139.0625, 155.30000001192093)
+[23Jun2025 23:29:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[23Jun2025 23:29:10.584] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[23Jun2025 23:29:10.593] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[23Jun2025 23:30:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[23Jun2025 23:30:26.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[23Jun2025 23:30:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Sweet Dreams]
+[23Jun2025 23:31:14.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[23Jun2025 23:31:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [A Strange Grave Dust]
