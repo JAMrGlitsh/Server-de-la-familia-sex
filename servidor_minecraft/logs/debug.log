@@ -4869,3 +4869,20 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [23Jun2025 23:31:53.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jun2025 23:31:53.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jun2025 23:31:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [A Strange Grave Dust]
+[23Jun2025 23:33:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Getting an Upgrade]
+[23Jun2025 23:34:47.737] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[23Jun2025 23:34:47.739] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[23Jun2025 23:35:31.780] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[23Jun2025 23:35:31.782] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[23Jun2025 23:36:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Gone Bananas!]
+[23Jun2025 23:36:19.032] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[23Jun2025 23:36:19.034] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[23Jun2025 23:36:25.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by CHUCHIXD
+[23Jun2025 23:36:26.636] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750721786635
+[23Jun2025 23:36:53.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 23:36:53.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 23:37:13.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[23Jun2025 23:38:00.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> xaero-waypoint:gui.xaero-deathpoint:D:10:210:949:0:false:0:Internal-overworld-waypoints
+[23Jun2025 23:38:34.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[23Jun2025 23:41:53.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 23:41:53.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

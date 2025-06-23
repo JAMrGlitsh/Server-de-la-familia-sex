@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-23 22:08:21 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-23 23:31:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-06-23 22:14:00 +0000"
@@ -270,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-23 22:08:21 +0000"
@@ -381,6 +399,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-06-23 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
     },
     "done": true
   },
@@ -513,6 +537,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-23 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
     },
     "done": true
   },
@@ -652,6 +682,12 @@
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-06-23 22:19:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
     },
     "done": true
   },
@@ -842,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-06-23 22:19:34 +0000"
@@ -1028,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-06-23 22:06:11 +0000"
@@ -1115,6 +1163,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-23 22:18:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
     },
     "done": true
   },
@@ -1277,6 +1331,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-23 22:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
     },
     "done": true
   },
@@ -1821,6 +1881,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-06-23 23:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-06-23 22:05:58 +0000"
@@ -1893,6 +1959,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-23 23:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-23 22:35:12 +0000"
@@ -1932,6 +2004,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-23 22:35:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-23 23:36:51 +0000"
     },
     "done": true
   },
@@ -2095,6 +2173,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-23 22:27:57 +0000",
       "cooked_beef": "2025-06-23 22:38:42 +0000",
+      "cooked_cod": "2025-06-23 23:32:05 +0000",
       "rabbit": "2025-06-23 22:18:12 +0000",
       "pumpkin_pie": "2025-06-23 23:14:23 +0000",
       "bread": "2025-06-23 23:04:44 +0000",
@@ -2208,6 +2287,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-23 22:37:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-23 23:36:51 +0000"
     },
     "done": true
   },

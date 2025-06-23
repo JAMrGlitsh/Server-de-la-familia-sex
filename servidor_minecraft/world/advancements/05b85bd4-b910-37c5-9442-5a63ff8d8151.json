@@ -664,6 +664,7 @@
       "cooked_porkchop": "2025-06-23 03:55:04 +0000",
       "cooked_mutton": "2025-06-23 03:16:04 +0000",
       "cooked_beef": "2025-06-23 22:58:49 +0000",
+      "pumpkin_pie": "2025-06-23 23:32:01 +0000",
       "bread": "2025-06-23 03:46:39 +0000",
       "carrot": "2025-06-23 05:15:13 +0000"
     },
@@ -1763,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-23 23:36:39 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-06-23 22:35:42 +0000"
@@ -1787,6 +1794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-23 23:33:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-06-23 22:35:42 +0000"
@@ -1802,6 +1821,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-23 23:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
     },
     "done": true
   },
@@ -1823,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-06-23 23:26:25 +0000"
@@ -1832,6 +1863,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-06-23 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
     },
     "done": true
   },
@@ -1877,9 +1914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-23 23:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
     },
     "done": true
   },
@@ -1895,9 +1944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-23 23:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
     },
     "done": true
   },
@@ -1937,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-23 23:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-23 22:35:42 +0000"
@@ -1964,6 +2031,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-23 23:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
     },
     "done": true
   },
@@ -2166,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-23 23:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-23 23:05:38 +0000"
@@ -2187,6 +2266,24 @@
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-23 22:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-23 23:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-23 23:36:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-23 23:37:27 +0000"
     },
     "done": true
   },
@@ -2265,6 +2362,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-23 22:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-23 23:37:27 +0000"
     },
     "done": true
   },
