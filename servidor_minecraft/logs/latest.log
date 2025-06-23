@@ -787,3 +787,38 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [23Jun2025 22:48:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ashes 'n Bones]
 [23Jun2025 22:51:29.486] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [23Jun2025 22:51:29.488] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[23Jun2025 22:51:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Parrots and the Bats]
+[23Jun2025 22:53:18.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Sweet Dreams]
+[23Jun2025 22:54:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Where Is The Stone Pen?]
+[23Jun2025 22:55:33.741] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[23Jun2025 22:55:33.746] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[23Jun2025 22:55:37.986] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[23Jun2025 22:55:37.992] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[23Jun2025 22:56:01.845] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[23Jun2025 22:56:01.864] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[23Jun2025 23:00:32.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[23Jun2025 23:00:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[23Jun2025 23:00:32.898] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jun2025 23:00:50.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:61107] logged in with entity id 44183 at (-257.85790623267206, 66.0, 1164.784343307872)
+[23Jun2025 23:00:50.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[23Jun2025 23:01:44.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Parrots and the Bats]
+[23Jun2025 23:05:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [A Moment in Time]
+[23Jun2025 23:07:24.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Stone Age]
+[23Jun2025 23:10:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Ashes 'n Bones]
+[23Jun2025 23:10:43.091] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[23Jun2025 23:10:43.099] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[23Jun2025 23:10:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Zombie
+[23Jun2025 23:11:22.746] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[23Jun2025 23:11:22.749] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[23Jun2025 23:13:30.186] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[23Jun2025 23:13:30.195] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[23Jun2025 23:13:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Enderman
+[23Jun2025 23:14:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Ambush]
+[23Jun2025 23:15:00.981] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[23Jun2025 23:15:00.995] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[23Jun2025 23:16:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Strong or Careful]
+[23Jun2025 23:16:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[23Jun2025 23:16:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[23Jun2025 23:16:43.426] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[23Jun2025 23:16:43.450] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[23Jun2025 23:18:45.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Most Useful Key]
