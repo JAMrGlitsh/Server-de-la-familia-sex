@@ -1433,6 +1433,7 @@
       "minecraft:ravager": "2025-06-24 18:13:35 +0000",
       "minecraft:spider": "2025-06-24 03:02:39 +0000",
       "minecraft:creeper": "2025-06-24 18:13:58 +0000",
+      "minecraft:slime": "2025-06-24 22:45:35 +0000",
       "minecraft:wither_skeleton": "2025-06-24 21:05:13 +0000",
       "minecraft:zombie": "2025-06-24 03:05:30 +0000",
       "minecraft:drowned": "2025-06-24 20:44:42 +0000"
@@ -3119,6 +3120,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-06-24 22:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-24 17:17:57 +0000"
@@ -3176,6 +3183,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_cut_copper": "2025-06-24 19:39:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-24 22:52:51 +0000"
     },
     "done": true
   },
@@ -3263,6 +3276,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-24 22:51:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-06-24 22:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-24 18:20:03 +0000"
@@ -3338,6 +3363,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-24 17:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-24 22:51:00 +0000"
     },
     "done": true
   },
