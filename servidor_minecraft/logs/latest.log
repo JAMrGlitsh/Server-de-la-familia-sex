@@ -319,3 +319,37 @@
 [24Jun2025 02:30:51.194] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/6393, l='ServerLevel[world]', x=-251.91, y=65.56, z=1167.44] does not respect server-side emote tracking. Ignoring repeat
 [24Jun2025 02:30:52.307] [Netty Epoll Server IO #6/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/1223, l='ServerLevel[world]', x=-257.14, y=65.00, z=1167.79] does not respect server-side emote tracking. Ignoring repeat
 [24Jun2025 02:32:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Take Aim]
+[24Jun2025 02:34:16.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[24Jun2025 02:34:16.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[24Jun2025 02:36:07.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[24Jun2025 02:36:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[24Jun2025 02:37:21.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56547] logged in with entity id 139284 at (-252.93226952717615, 65.0, 1166.2776839289436)
+[24Jun2025 02:37:21.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[24Jun2025 02:37:45.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=65, z=1186} BlockPos{x=-205, y=63, z=1188}
+[24Jun2025 02:37:45.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=63, z=1185} BlockPos{x=-205, y=63, z=1186}
+[24Jun2025 02:38:02.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=64, z=1188} BlockPos{x=-189, y=62, z=1186}
+[24Jun2025 02:38:02.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=65, z=1185} BlockPos{x=-187, y=63, z=1184}
+[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=65, z=1185} BlockPos{x=-187, y=63, z=1184}
+[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=65, z=1184} BlockPos{x=-187, y=63, z=1184}
+[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=65, z=1184} BlockPos{x=-187, y=63, z=1184}
+[24Jun2025 02:38:12.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[24Jun2025 02:38:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[24Jun2025 02:38:18.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51092] logged in with entity id 139624 at (-267.0835451082378, 64.0, 1169.449309039913)
+[24Jun2025 02:38:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[24Jun2025 02:38:21.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:56048] logged in with entity id 139640 at (-189.36722226427247, 64.0, 1184.2166845524287)
+[24Jun2025 02:38:21.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[24Jun2025 02:38:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Stone Age]
+[24Jun2025 02:38:48.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=65, z=1172} BlockPos{x=-191, y=63, z=1171}
+[24Jun2025 02:38:48.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=65, z=1172} BlockPos{x=-191, y=63, z=1170}
+[24Jun2025 02:38:48.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=65, z=1171} BlockPos{x=-193, y=63, z=1170}
+[24Jun2025 02:38:49.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=65, z=1169} BlockPos{x=-194, y=63, z=1166}
+[24Jun2025 02:38:49.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=65, z=1171} BlockPos{x=-195, y=63, z=1167}
+[24Jun2025 02:38:49.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=65, z=1172} BlockPos{x=-196, y=63, z=1168}
+[24Jun2025 02:38:55.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=65, z=1170} BlockPos{x=-198, y=63, z=1172}
+[24Jun2025 02:39:25.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -9.614576967946874,2.252203340253729,2.851615043367701
+[24Jun2025 02:39:27.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Alex's Mobs]
+[24Jun2025 02:43:04.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[24Jun2025 02:43:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[24Jun2025 02:43:49.947] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 02:43:49.952] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 02:44:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
