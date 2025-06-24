@@ -589,3 +589,12 @@
 [24Jun2025 18:16:15.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/14528, l='ServerLevel[world]', x=-827.75, y=207.00, z=158.85] died: Gearling hit the ground too hard
 [24Jun2025 18:18:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Ol' Betsy]
 [24Jun2025 18:19:31.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Fortuitous Militia]
+[24Jun2025 18:24:45.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> responde perrra
+[24Jun2025 18:29:01.556] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:29:01.566] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:31:34.257] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:31:34.266] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:33:35.456] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:33:35.464] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:33:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD blew up
+[24Jun2025 18:33:36.779] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved

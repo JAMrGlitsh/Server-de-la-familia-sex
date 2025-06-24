@@ -3558,5 +3558,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-24 18:24:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
