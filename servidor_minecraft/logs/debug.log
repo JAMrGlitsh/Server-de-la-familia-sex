@@ -13972,3 +13972,40 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [24Jun2025 02:21:53.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jun2025 02:21:53.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jun2025 02:21:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Once Upon a Cave]
+[24Jun2025 02:24:20.144] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 02:24:20.147] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 02:25:07.637] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[24Jun2025 02:25:07.653] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[24Jun2025 02:25:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was shot by Skeleton
+[24Jun2025 02:25:21.397] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-255, y:65, z:1159, dim:minecraft:overworld]
+[24Jun2025 02:25:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Your First Grave]
+[24Jun2025 02:25:52.969] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750731952965
+[24Jun2025 02:26:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Suit Up]
+[24Jun2025 02:26:31.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132974, l='ServerLevel[world]', x=-836.28, y=169.50, z=160.30] died: Gearling fell from a high place
+[24Jun2025 02:26:53.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 02:26:53.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 02:27:12.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132712, l='ServerLevel[world]', x=-834.28, y=173.06, z=156.94] died: Gearling fell from a high place
+[24Jun2025 02:27:37.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132993, l='ServerLevel[world]', x=-834.20, y=173.00, z=152.79] died: Gearling fell from a high place
+[24Jun2025 02:27:49.137] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 02:27:49.158] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 02:28:30.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/134300, l='ServerLevel[world]', x=-833.97, y=173.00, z=159.02] died: Gearling fell from a high place
+[24Jun2025 02:28:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 02:28:49.109] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-824, y:178, z:168, dim:minecraft:overworld]
+[24Jun2025 02:28:51.151] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750732131150
+[24Jun2025 02:29:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to CHUCHIXD]
+[24Jun2025 02:29:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [DJ! DJ!]
+[24Jun2025 02:30:40.456] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=0, player=null}
+[24Jun2025 02:30:42.928] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[24Jun2025 02:30:49.256] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=0, player=null}
+[24Jun2025 02:30:51.193] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=16, player=31c20faa-67a1-31c1-9e4f-9509423cbea0}
+[24Jun2025 02:30:51.194] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/6393, l='ServerLevel[world]', x=-251.91, y=65.56, z=1167.44] does not respect server-side emote tracking. Ignoring repeat
+[24Jun2025 02:30:52.307] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=62, player=31c20faa-67a1-31c1-9e4f-9509423cbea0}
+[24Jun2025 02:30:52.307] [Netty Epoll Server IO #6/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/1223, l='ServerLevel[world]', x=-257.14, y=65.00, z=1167.79] does not respect server-side emote tracking. Ignoring repeat
+[24Jun2025 02:30:56.072] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[24Jun2025 02:31:09.006] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[24Jun2025 02:31:14.674] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[24Jun2025 02:31:46.156] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 8e4f54a6-3d8f-3120-91b2-0de088510b4f data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[24Jun2025 02:31:51.487] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[24Jun2025 02:31:53.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 02:31:53.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 02:32:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Take Aim]

@@ -1243,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-24 02:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-23 22:18:58 +0000"
@@ -1511,6 +1517,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-23 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-24 02:26:04 +0000"
     },
     "done": true
   },
@@ -1985,6 +1997,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-23 22:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-24 02:26:04 +0000"
     },
     "done": true
   },
@@ -3270,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-24 02:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-23 22:35:51 +0000"
@@ -3313,6 +3337,7 @@
       "rotten_flesh": "2025-06-23 22:35:28 +0000",
       "salmon": "2025-06-24 01:13:24 +0000",
       "golden_carrot": "2025-06-23 22:56:29 +0000",
+      "cooked_rabbit": "2025-06-24 02:30:22 +0000",
       "cooked_salmon": "2025-06-23 23:58:43 +0000"
     },
     "done": false

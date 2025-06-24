@@ -300,3 +300,22 @@
 [24Jun2025 02:18:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [DJ! DJ!]
 [24Jun2025 02:18:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Fortuitous Militia]
 [24Jun2025 02:21:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Once Upon a Cave]
+[24Jun2025 02:24:20.144] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 02:24:20.147] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 02:25:07.637] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[24Jun2025 02:25:07.653] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[24Jun2025 02:25:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was shot by Skeleton
+[24Jun2025 02:25:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Your First Grave]
+[24Jun2025 02:26:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Suit Up]
+[24Jun2025 02:26:31.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132974, l='ServerLevel[world]', x=-836.28, y=169.50, z=160.30] died: Gearling fell from a high place
+[24Jun2025 02:27:12.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132712, l='ServerLevel[world]', x=-834.28, y=173.06, z=156.94] died: Gearling fell from a high place
+[24Jun2025 02:27:37.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132993, l='ServerLevel[world]', x=-834.20, y=173.00, z=152.79] died: Gearling fell from a high place
+[24Jun2025 02:27:49.137] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 02:27:49.158] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 02:28:30.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/134300, l='ServerLevel[world]', x=-833.97, y=173.00, z=159.02] died: Gearling fell from a high place
+[24Jun2025 02:28:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 02:29:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to CHUCHIXD]
+[24Jun2025 02:29:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [DJ! DJ!]
+[24Jun2025 02:30:51.194] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/6393, l='ServerLevel[world]', x=-251.91, y=65.56, z=1167.44] does not respect server-side emote tracking. Ignoring repeat
+[24Jun2025 02:30:52.307] [Netty Epoll Server IO #6/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/1223, l='ServerLevel[world]', x=-257.14, y=65.00, z=1167.79] does not respect server-side emote tracking. Ignoring repeat
+[24Jun2025 02:32:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Take Aim]

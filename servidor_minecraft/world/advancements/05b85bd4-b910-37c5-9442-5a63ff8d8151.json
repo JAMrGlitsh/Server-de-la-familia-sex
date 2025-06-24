@@ -2670,6 +2670,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-24 02:21:57 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-06-23 22:51:56 +0000"

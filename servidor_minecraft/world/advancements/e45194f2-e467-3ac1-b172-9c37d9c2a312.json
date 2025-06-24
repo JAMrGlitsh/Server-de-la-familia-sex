@@ -2853,5 +2853,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-24 02:25:35 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-06-24 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-24 02:25:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
