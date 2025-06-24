@@ -4364,6 +4364,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-24 23:12:57 +0000",
+      "minecraft:nether_wastes": "2025-06-24 23:13:32 +0000"
+    },
+    "done": false
+  },
   "exposure:adventure/exposure": {
     "criteria": {
       "expose_frame": "2025-06-24 21:47:32 +0000"
@@ -4442,9 +4449,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-24 23:14:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-24 23:12:56 +0000"
     },
     "done": true
   },
@@ -4469,6 +4488,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-24 21:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-24 23:12:56 +0000"
     },
     "done": true
   },
