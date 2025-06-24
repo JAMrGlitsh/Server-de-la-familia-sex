@@ -1711,6 +1711,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-24 19:24:59 +0000",
       "minecraft:husk": "2025-06-24 03:46:49 +0000",
       "minecraft:zombie": "2025-06-24 03:43:52 +0000",
       "minecraft:drowned": "2025-06-24 04:10:00 +0000"
@@ -2011,9 +2012,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-24 18:46:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-24 18:47:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-06-24 18:54:26 +0000"
     },
     "done": true
   },
@@ -2029,15 +2042,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_iron_backpack": "2025-06-24 18:46:55 +0000"
+      "has_ink_sac": "2025-06-24 19:28:54 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_axe_repairing": {
+  "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
-      "has_diamond_axe": "2025-06-24 18:54:26 +0000"
+      "killed_by": "2025-06-24 19:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-24 19:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-24 19:28:44 +0000"
     },
     "done": true
   },

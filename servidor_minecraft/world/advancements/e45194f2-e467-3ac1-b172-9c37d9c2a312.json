@@ -3552,6 +3552,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-24 19:20:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
       "has_item_frame": "2025-06-24 19:13:09 +0000"
