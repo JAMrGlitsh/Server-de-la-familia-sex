@@ -43,6 +43,7 @@
       "minecraft:spider": "2025-06-23 03:32:40 +0000",
       "minecraft:wither_skeleton": "2025-06-23 04:47:58 +0000",
       "minecraft:husk": "2025-06-23 03:06:03 +0000",
+      "minecraft:enderman": "2025-06-24 02:53:04 +0000",
       "minecraft:zombie": "2025-06-23 03:09:33 +0000"
     },
     "done": false
@@ -3604,6 +3605,18 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-06-24 02:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-24 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-24 03:04:38 +0000"
     },
     "done": true
   },
