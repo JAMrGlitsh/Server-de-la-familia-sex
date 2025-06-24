@@ -392,3 +392,18 @@
 [24Jun2025 03:16:28.999] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [24Jun2025 03:19:16.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Welcome To The Machine]
 [24Jun2025 03:19:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Alex's Mobs]
+[24Jun2025 03:30:18.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168760, l='ServerLevel[world]', x=-836.18, y=169.50, z=160.81] died: Gearling fell from a high place
+[24Jun2025 03:30:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[24Jun2025 03:31:05.841] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 03:31:05.845] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 03:31:10.193] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 03:31:10.197] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 03:31:10.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[24Jun2025 03:31:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[24Jun2025 03:32:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Knowledge of Death]
+[24Jun2025 03:32:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Strong or Careful]
+[24Jun2025 03:32:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 03:32:33.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Here They Come]
+[24Jun2025 03:32:58.125] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 03:32:58.131] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 03:33:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Jennifer Dumped Me]
