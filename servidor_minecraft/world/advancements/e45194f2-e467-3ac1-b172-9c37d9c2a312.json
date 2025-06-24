@@ -690,6 +690,7 @@
       "pumpkin_pie": "2025-06-23 23:25:27 +0000",
       "bread": "2025-06-23 03:44:35 +0000",
       "golden_apple": "2025-06-23 03:47:04 +0000",
+      "glow_berries": "2025-06-24 00:36:04 +0000",
       "golden_carrot": "2025-06-23 04:57:44 +0000"
     },
     "done": false
@@ -2484,6 +2485,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-24 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-06-24 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-24 00:34:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-06-24 00:00:20 +0000"
@@ -2496,15 +2515,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-24 00:36:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-06-24 00:00:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-24 00:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-24 00:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2025-06-24 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-24 00:34:52 +0000"
     },
     "done": true
   },

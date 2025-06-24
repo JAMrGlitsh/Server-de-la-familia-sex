@@ -703,6 +703,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-06-24 00:18:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-06-23 22:26:03 +0000"
@@ -847,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-24 00:18:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-23 22:08:21 +0000"
@@ -856,6 +868,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-06-23 22:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-24 00:38:51 +0000"
     },
     "done": true
   },
@@ -916,6 +934,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-23 23:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-24 00:38:51 +0000"
     },
     "done": true
   },
@@ -1127,6 +1151,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 22:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-24 00:54:52 +0000"
     },
     "done": true
   },
@@ -1923,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-24 00:54:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-06-23 22:34:31 +0000"
@@ -2331,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-24 00:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-23 22:08:21 +0000"
@@ -2595,6 +2637,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-06-24 00:24:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-23 23:07:24 +0000"
@@ -2652,11 +2700,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-06-23 22:04:30 +0000",
+      "minecraft:savanna_plateau": "2025-06-24 00:56:35 +0000",
       "minecraft:beach": "2025-06-23 22:41:13 +0000",
       "minecraft:sparse_jungle": "2025-06-23 22:42:23 +0000",
       "minecraft:river": "2025-06-23 22:13:24 +0000",
       "minecraft:forest": "2025-06-23 22:34:26 +0000",
       "minecraft:desert": "2025-06-23 22:13:16 +0000",
+      "minecraft:savanna": "2025-06-24 00:53:01 +0000",
       "minecraft:plains": "2025-06-23 22:42:09 +0000"
     },
     "done": false
@@ -2736,10 +2786,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-23 22:27:57 +0000",
+      "cooked_mutton": "2025-06-24 00:18:44 +0000",
       "cooked_beef": "2025-06-23 22:38:42 +0000",
       "cooked_cod": "2025-06-23 23:32:05 +0000",
       "rabbit": "2025-06-23 22:18:12 +0000",
       "pumpkin_pie": "2025-06-23 23:14:23 +0000",
+      "mutton": "2025-06-24 00:24:15 +0000",
       "bread": "2025-06-23 23:04:44 +0000",
       "rotten_flesh": "2025-06-23 22:35:28 +0000",
       "golden_carrot": "2025-06-23 22:56:29 +0000",
@@ -2852,6 +2904,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 22:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-24 00:38:51 +0000"
     },
     "done": true
   },
