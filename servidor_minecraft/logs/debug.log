@@ -5419,3 +5419,58 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jun2025 20:24:45.020] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [24Jun2025 20:25:33.615] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [24Jun2025 20:25:33.631] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:26:58.210] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 20:26:58.224] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 20:27:02.266] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 20:27:02.279] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 20:27:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 20:27:22.176] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-844, y:297, z:163, dim:minecraft:overworld]
+[24Jun2025 20:27:23.503] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750796843496
+[24Jun2025 20:27:53.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 20:27:53.926] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-830, y:297, z:171, dim:minecraft:overworld]
+[24Jun2025 20:27:55.367] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750796875329
+[24Jun2025 20:28:01.425] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:28:01.429] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:28:21.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70946, l='ServerLevel[world]', x=-839.72, y=263.00, z=150.84] died: Gearling fell from a high place
+[24Jun2025 20:28:25.572] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 20:28:25.589] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 20:28:27.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[24Jun2025 20:28:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 20:28:42.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-824, y:297, z:157, dim:minecraft:overworld]
+[24Jun2025 20:28:44.772] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750796924761
+[24Jun2025 20:28:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Diamonds!]
+[24Jun2025 20:29:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Fortuitous Militia]
+[24Jun2025 20:29:02.627] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:29:02.631] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:29:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 20:29:26.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[24Jun2025 20:29:27.764] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 20:29:27.777] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 20:29:41.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 20:29:41.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 20:29:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[24Jun2025 20:30:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh went off with a bang
+[24Jun2025 20:30:02.574] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-823, y:215, z:1957, dim:minecraft:overworld]
+[24Jun2025 20:30:06.309] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 20:30:06.321] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 20:30:16.301] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750797016289
+[24Jun2025 20:30:41.618] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:30:41.622] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:30:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[24Jun2025 20:30:58.870] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:30:58.873] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:31:07.621] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:31:07.627] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:31:37.073] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[24Jun2025 20:31:37.077] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[24Jun2025 20:31:41.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/75382, l='ServerLevel[world]', x=-838.19, y=256.50, z=149.58] died: Gearling fell from a high place
+[24Jun2025 20:32:19.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh went off with a bang
+[24Jun2025 20:32:19.425] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-823, y:197, z:1969, dim:minecraft:overworld]
+[24Jun2025 20:32:20.869] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750797140828
+[24Jun2025 20:32:23.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -822.500000, 197.500000, 1969.500000]
+[24Jun2025 20:32:34.958] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 20:32:34.975] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 20:32:39.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/75341, l='ServerLevel[world]', x=-838.18, y=308.00, z=169.83] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 20:34:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 20:34:41.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 20:35:35.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/78155, l='ServerLevel[world]', x=-837.00, y=272.00, z=160.86] died: Gearling fell from a high place
