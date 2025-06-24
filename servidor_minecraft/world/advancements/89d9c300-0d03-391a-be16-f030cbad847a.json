@@ -4178,6 +4178,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-24 18:46:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-06-24 17:32:23 +0000"
