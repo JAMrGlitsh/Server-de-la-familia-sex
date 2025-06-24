@@ -42,6 +42,7 @@
       "minecraft:hoglin": "2025-06-23 03:47:16 +0000",
       "minecraft:spider": "2025-06-23 03:32:40 +0000",
       "minecraft:creeper": "2025-06-24 03:43:16 +0000",
+      "minecraft:phantom": "2025-06-24 17:57:35 +0000",
       "minecraft:wither_skeleton": "2025-06-23 04:47:58 +0000",
       "minecraft:husk": "2025-06-23 03:06:03 +0000",
       "minecraft:enderman": "2025-06-24 02:53:04 +0000",
@@ -3615,15 +3616,9 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/bamboo": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_wood": "2025-06-24 04:11:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-06-24 03:43:17 +0000"
+      "has_lapis_lazuli": "2025-06-24 03:04:38 +0000"
     },
     "done": true
   },
@@ -3633,9 +3628,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_lapis_lazuli": "2025-06-24 03:04:38 +0000"
+      "has_gunpowder": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-24 04:06:19 +0000"
     },
     "done": true
   },
@@ -3645,9 +3652,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "mcwdoors:recipes/bamboo": {
     "criteria": {
-      "has_iron_backpack": "2025-06-24 04:06:19 +0000"
+      "has_wood": "2025-06-24 04:11:28 +0000"
     },
     "done": true
   },
@@ -3663,17 +3670,41 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-06-24 03:43:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-24 04:11:28 +0000"
     },
     "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-06-24 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 17:42:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 17:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-24 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-24 17:57:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
