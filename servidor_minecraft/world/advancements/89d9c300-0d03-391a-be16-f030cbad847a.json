@@ -4203,6 +4203,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-06-24 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-24 18:19:31 +0000"
@@ -4242,6 +4254,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-06-24 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-06-24 22:18:48 +0000"
     },
     "done": true
   },
@@ -4446,6 +4464,12 @@
   "aether:recipes/combat/leather_gloves_repairing": {
     "criteria": {
       "has_leather_gloves": "2025-06-24 19:16:22 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2025-06-24 21:40:10 +0000"
     },
     "done": true
   },

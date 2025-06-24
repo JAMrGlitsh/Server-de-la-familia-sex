@@ -6063,3 +6063,513 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jun2025 21:26:07.010] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [24Jun2025 21:26:07.025] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [24Jun2025 21:26:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Ambush]
+[24Jun2025 21:29:41.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:29:41.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:32:35.667] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:32:35.680] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:32:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:32:51.778] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-931, y:212, z:244, dim:minecraft:overworld]
+[24Jun2025 21:32:53.338] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800773320
+[24Jun2025 21:33:03.774] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:33:03.777] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:33:10.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
+[24Jun2025 21:33:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[24Jun2025 21:33:23.065] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:33:23.070] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:33:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Wither Skeleton
+[24Jun2025 21:33:37.820] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-919, y:212, z:250, dim:minecraft:overworld]
+[24Jun2025 21:33:39.338] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800819337
+[24Jun2025 21:33:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Wither Skeleton
+[24Jun2025 21:33:48.284] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-932, y:212, z:242, dim:minecraft:overworld]
+[24Jun2025 21:33:49.769] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800829763
+[24Jun2025 21:34:04.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103299, l='ServerLevel[world]', x=-931.73, y=212.00, z=240.72] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 21:34:06.516] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:34:06.525] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:34:15.510] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:34:15.521] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:34:21.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Wither Skeleton
+[24Jun2025 21:34:21.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-932, y:212, z:243, dim:minecraft:overworld]
+[24Jun2025 21:34:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:34:22.529] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-924, y:212, z:217, dim:minecraft:overworld]
+[24Jun2025 21:34:23.397] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800863385
+[24Jun2025 21:34:25.364] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800865349
+[24Jun2025 21:34:29.760] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:34:29.769] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:34:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Wither Skeleton
+[24Jun2025 21:34:40.419] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-932, y:212, z:243, dim:minecraft:overworld]
+[24Jun2025 21:34:41.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:34:41.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:34:42.216] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800882197
+[24Jun2025 21:35:06.713] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:35:06.717] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:35:09.512] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:35:09.517] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:35:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Wither Skeleton
+[24Jun2025 21:35:22.023] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-910, y:212, z:258, dim:minecraft:overworld]
+[24Jun2025 21:35:23.869] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800923845
+[24Jun2025 21:35:46.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Wither Skeleton
+[24Jun2025 21:35:46.622] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-931, y:212, z:244, dim:minecraft:overworld]
+[24Jun2025 21:35:48.045] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800948014
+[24Jun2025 21:35:55.655] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:35:55.674] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:35:58.306] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:35:58.320] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:36:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:36:04.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-912, y:212, z:259, dim:minecraft:overworld]
+[24Jun2025 21:36:05.736] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800965713
+[24Jun2025 21:36:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:36:10.587] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-918, y:212, z:255, dim:minecraft:overworld]
+[24Jun2025 21:36:13.020] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750800973004
+[24Jun2025 21:36:40.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/102472, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.42] died: Gearling fell from a high place
+[24Jun2025 21:36:56.661] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:36:56.665] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:36:58.663] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:36:58.668] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:37:17.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:37:17.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-919, y:212, z:263, dim:minecraft:overworld]
+[24Jun2025 21:37:19.119] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801039119
+[24Jun2025 21:37:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:37:22.789] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:212, z:267, dim:minecraft:overworld]
+[24Jun2025 21:37:24.279] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801044261
+[24Jun2025 21:37:45.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103603, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.33] died: Gearling fell from a high place
+[24Jun2025 21:37:58.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104818, l='ServerLevel[world]', x=-918.58, y=212.00, z=264.20] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 21:37:59.857] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:37:59.868] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:38:02.108] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:38:02.118] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:38:07.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:38:07.789] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:212, z:267, dim:minecraft:overworld]
+[24Jun2025 21:38:09.233] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801089220
+[24Jun2025 21:38:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:38:12.315] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-916, y:212, z:260, dim:minecraft:overworld]
+[24Jun2025 21:38:13.944] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801093929
+[24Jun2025 21:38:29.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104730, l='ServerLevel[world]', x=-921.83, y=212.54, z=266.82] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 21:39:41.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:39:41.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:40:29.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103767, l='ServerLevel[world]', x=-935.61, y=224.00, z=262.72] died: Gearling hit the ground too hard
+[24Jun2025 21:40:43.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103272, l='ServerLevel[world]', x=-935.18, y=206.00, z=246.82] died: Gearling fell from a high place
+[24Jun2025 21:41:17.658] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:41:17.667] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:41:34.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105546, l='ServerLevel[world]', x=-922.30, y=221.00, z=260.29] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 21:42:00.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104448, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.49] died: Gearling fell from a high place
+[24Jun2025 21:42:27.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/102466, l='ServerLevel[world]', x=-937.03, y=225.00, z=262.29] died: Gearling hit the ground too hard
+[24Jun2025 21:43:00.309] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:43:00.322] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:43:02.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104476, l='ServerLevel[world]', x=-919.51, y=220.00, z=252.14] died: Gearling fell from a high place
+[24Jun2025 21:43:07.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/102329, l='ServerLevel[world]', x=-935.32, y=224.00, z=262.76] died: Gearling hit the ground too hard
+[24Jun2025 21:43:35.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103437, l='ServerLevel[world]', x=-939.18, y=220.00, z=264.79] died: Gearling fell from a high place
+[24Jun2025 21:44:19.904] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:44:19.916] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:44:23.257] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:44:23.271] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:44:27.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104485, l='ServerLevel[world]', x=-933.58, y=224.00, z=263.55] died: Gearling hit the ground too hard
+[24Jun2025 21:44:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:44:32.836] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:226, z:253, dim:minecraft:overworld]
+[24Jun2025 21:44:34.430] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801474408
+[24Jun2025 21:44:41.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:44:41.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:45:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:45:23.217] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-923, y:225, z:253, dim:minecraft:overworld]
+[24Jun2025 21:45:24.991] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801524981
+[24Jun2025 21:45:42.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105663, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.48] died: Gearling fell from a high place
+[24Jun2025 21:46:05.161] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:46:05.174] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:46:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was doomed to fall by Gearling
+[24Jun2025 21:46:06.629] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-920, y:212, z:251, dim:minecraft:overworld]
+[24Jun2025 21:46:06.630] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:46:08.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106039, l='ServerLevel[world]', x=-917.71, y=231.18, z=254.81] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 21:46:08.413] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801568409
+[24Jun2025 21:46:19.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104258, l='ServerLevel[world]', x=-922.61, y=238.50, z=256.17] died: Gearling hit the ground too hard
+[24Jun2025 21:46:35.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105201, l='ServerLevel[world]', x=-944.19, y=222.00, z=257.85] died: Gearling fell from a high place
+[24Jun2025 21:47:32.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Exposure]
+[24Jun2025 21:48:28.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104263, l='ServerLevel[world]', x=-933.26, y=224.00, z=263.28] died: Gearling hit the ground too hard
+[24Jun2025 21:48:31.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103748, l='ServerLevel[world]', x=-935.74, y=224.00, z=262.74] died: Gearling hit the ground too hard
+[24Jun2025 21:48:31.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106071, l='ServerLevel[world]', x=-933.49, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 21:48:32.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/102464, l='ServerLevel[world]', x=-935.83, y=225.00, z=262.94] died: Gearling hit the ground too hard
+[24Jun2025 21:48:33.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103271, l='ServerLevel[world]', x=-933.70, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 21:48:35.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106089, l='ServerLevel[world]', x=-926.44, y=224.00, z=255.67] died: Gearling fell from a high place
+[24Jun2025 21:48:36.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103747, l='ServerLevel[world]', x=-926.20, y=224.00, z=255.44] died: Gearling fell from a high place
+[24Jun2025 21:48:37.256] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:48:37.267] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:49:09.913] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:49:09.927] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:49:15.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105055, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.80] died: Gearling fell from a high place
+[24Jun2025 21:49:19.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:49:19.332] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-922, y:230, z:260, dim:minecraft:overworld]
+[24Jun2025 21:49:20.747] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801760743
+[24Jun2025 21:49:27.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104419, l='ServerLevel[world]', x=-936.90, y=225.00, z=262.70] died: Gearling hit the ground too hard
+[24Jun2025 21:49:28.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105047, l='ServerLevel[world]', x=-936.12, y=225.00, z=262.24] died: Gearling hit the ground too hard
+[24Jun2025 21:49:31.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 21:49:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:49:37.216] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-926, y:224, z:261, dim:minecraft:overworld]
+[24Jun2025 21:49:38.823] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801778810
+[24Jun2025 21:49:41.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:49:41.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:49:45.057] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:49:45.067] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:50:08.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104085, l='ServerLevel[world]', x=-933.39, y=224.00, z=263.31] died: Gearling hit the ground too hard
+[24Jun2025 21:50:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 21:50:26.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106204, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.80] died: Gearling fell from a high place
+[24Jun2025 21:50:30.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103483, l='ServerLevel[world]', x=-935.31, y=224.00, z=262.55] died: Gearling hit the ground too hard
+[24Jun2025 21:50:39.913] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:50:39.923] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:50:42.409] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:50:42.423] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:50:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 21:50:49.975] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801849955
+[24Jun2025 21:50:50.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106944, l='ServerLevel[world]', x=-940.93, y=220.00, z=263.58] died: Gearling fell from a high place
+[24Jun2025 21:50:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:50:55.135] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:235, z:260, dim:minecraft:overworld]
+[24Jun2025 21:50:57.073] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801857055
+[24Jun2025 21:51:13.414] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:51:13.426] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:51:30.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 21:51:30.817] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:235, z:260, dim:minecraft:overworld]
+[24Jun2025 21:51:32.081] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750801892062
+[24Jun2025 21:52:25.307] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 21:52:25.320] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 21:52:29.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104814, l='ServerLevel[world]', x=-935.01, y=224.00, z=262.84] died: Gearling hit the ground too hard
+[24Jun2025 21:52:35.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105668, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.32] died: Gearling fell from a high place
+[24Jun2025 21:52:42.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to elpepe]
+[24Jun2025 21:53:08.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107773, l='ServerLevel[world]', x=-939.15, y=220.00, z=264.32] died: Gearling fell from a high place
+[24Jun2025 21:53:49.032] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[24Jun2025 21:53:49.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[24Jun2025 21:53:49.118] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[24Jun2025 21:53:49.165] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[24Jun2025 21:53:49.205] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[24Jun2025 21:53:49.205] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[24Jun2025 21:53:49.205] [Netty Epoll Server IO #3/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[24Jun2025 21:53:49.218] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[24Jun2025 21:53:49.242] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [easy_npc, mowziesmobs, geckolib, playeranimator, cosycritters, aether, jei, tacz, mcwwindows, sophisticatedcore, rubidium, sodium, xaeroworldmap, citadel, alexsmobs, badpackets, yungsapi, mixinextras, sophisticatedbackpacks, mcwdoors, mahoutsukai, carryon, jeresources, exposure, paraglider, cloth_config, forge, travelerstitles, emotecraft, dungeons_arise, minecraft, alexscaves, endermanoverhaul, creativecore, resourcefulconfig, e4mc_minecraft, wthit, waila, curios, xaerominimap, oculus, iris, camera, securitycraft, tombstone, resourcefullib, cumulus_menus, deeperdarker, creeperoverhaul, architectury, otyacraftengine, iammusicplayer, appleskin, mcwfurnitures, lanserverproperties, nitrogen_internals, playerrevive]
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Version test of '23' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mahoutsukai:main_channel' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Jun2025 21:53:49.244] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Jun2025 21:53:49.269] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[24Jun2025 21:53:49.317] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 5
+[24Jun2025 21:53:49.330] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Jun2025 21:53:49.330] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.330] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.340] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Jun2025 21:53:49.340] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.340] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 6
+[24Jun2025 21:53:49.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Jun2025 21:53:49.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.416] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 7
+[24Jun2025 21:53:49.464] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[24Jun2025 21:53:49.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[24Jun2025 21:53:49.563] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[24Jun2025 21:53:49.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Jun2025 21:53:49.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.615] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.647] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.672] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[24Jun2025 21:53:49.715] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[24Jun2025 21:53:49.740] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Jun2025 21:53:49.740] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.740] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Jun2025 21:53:49.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Jun2025 21:53:49.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Jun2025 21:53:49.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.768] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[24Jun2025 21:53:49.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Jun2025 21:53:49.788] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.788] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.813] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[24Jun2025 21:53:49.841] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Jun2025 21:53:49.841] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.841] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.863] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[24Jun2025 21:53:49.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Jun2025 21:53:49.914] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[24Jun2025 21:53:49.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.914] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.934] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Jun2025 21:53:49.934] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.934] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:49.963] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[24Jun2025 21:53:49.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Jun2025 21:53:49.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:49.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[24Jun2025 21:53:50.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Jun2025 21:53:50.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[24Jun2025 21:53:50.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Jun2025 21:53:50.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.121] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[24Jun2025 21:53:50.134] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Jun2025 21:53:50.134] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.134] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[24Jun2025 21:53:50.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Jun2025 21:53:50.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.229] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[24Jun2025 21:53:50.236] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Jun2025 21:53:50.236] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.236] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.269] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 24
+[24Jun2025 21:53:50.297] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Jun2025 21:53:50.297] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:50.297] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:50.316] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 25
+[24Jun2025 21:53:50.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[24Jun2025 21:53:50.422] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[24Jun2025 21:53:50.470] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 28
+[24Jun2025 21:53:50.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[24Jun2025 21:53:50.563] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mahoutsukai-server.toml' to 'fml:handshake' sequence 30
+[24Jun2025 21:53:50.614] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 31
+[24Jun2025 21:53:50.664] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 32
+[24Jun2025 21:53:50.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[24Jun2025 21:53:50.766] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 34
+[24Jun2025 21:53:50.816] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 35
+[24Jun2025 21:53:51.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104271, l='ServerLevel[world]', x=-926.85, y=225.00, z=257.51] died: Gearling fell from a high place
+[24Jun2025 21:53:53.397] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Jun2025 21:53:53.397] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.398] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.402] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[24Jun2025 21:53:53.402] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.402] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.408] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[24Jun2025 21:53:53.408] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.408] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[24Jun2025 21:53:53.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.411] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[24Jun2025 21:53:53.411] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.411] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.448] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[24Jun2025 21:53:53.448] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[24Jun2025 21:53:53.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jun2025 21:53:53.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jun2025 21:53:53.465] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Jun2025 21:53:53.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50031] logged in with entity id 109059 at (-208.53586430665865, 99.0, 1373.699999988079)
+[24Jun2025 21:53:53.526] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@47cb7c8b into net.minecraft.network.Connection@282866ef
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[24Jun2025 21:53:53.527] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[24Jun2025 21:53:53.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[24Jun2025 21:53:55.290] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802035246
+[24Jun2025 21:54:12.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105224, l='ServerLevel[world]', x=-941.44, y=206.00, z=263.95] died: Gearling fell from a high place
+[24Jun2025 21:54:33.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108208, l='ServerLevel[world]', x=-935.78, y=224.00, z=262.74] died: Gearling hit the ground too hard
+[24Jun2025 21:54:41.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:54:41.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:54:50.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107293, l='ServerLevel[world]', x=-933.64, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 21:54:51.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107816, l='ServerLevel[world]', x=-935.16, y=224.00, z=262.68] died: Gearling hit the ground too hard
+[24Jun2025 21:54:54.138] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:54:54.183] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:55:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[24Jun2025 21:55:02.718] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802102703
+[24Jun2025 21:55:26.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107805, l='ServerLevel[world]', x=-926.81, y=225.00, z=257.44] died: Gearling fell from a high place
+[24Jun2025 21:56:02.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106229, l='ServerLevel[world]', x=-935.72, y=224.00, z=262.67] died: Gearling hit the ground too hard
+[24Jun2025 21:56:23.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103569, l='ServerLevel[world]', x=-933.70, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 21:56:25.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107849, l='ServerLevel[world]', x=-935.79, y=224.00, z=262.74] died: Gearling hit the ground too hard
+[24Jun2025 21:56:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Mine? Mine? Mine?]
+[24Jun2025 21:56:59.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108855, l='ServerLevel[world]', x=-935.23, y=224.00, z=263.16] died: Gearling hit the ground too hard
+[24Jun2025 21:57:09.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107884, l='ServerLevel[world]', x=-935.82, y=225.00, z=262.71] died: Gearling hit the ground too hard
+[24Jun2025 21:57:09.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105101, l='ServerLevel[world]', x=-933.43, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 21:57:16.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106248, l='ServerLevel[world]', x=-935.85, y=225.00, z=262.92] died: Gearling hit the ground too hard
+[24Jun2025 21:57:45.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108847, l='ServerLevel[world]', x=-935.03, y=224.00, z=262.72] died: Gearling hit the ground too hard
+[24Jun2025 21:57:50.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/107765, l='ServerLevel[world]', x=-935.79, y=224.00, z=262.74] died: Gearling hit the ground too hard
+[24Jun2025 21:59:12.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108718, l='ServerLevel[world]', x=-934.88, y=224.00, z=263.30] died: Gearling hit the ground too hard
+[24Jun2025 21:59:21.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108069, l='ServerLevel[world]', x=-935.61, y=224.00, z=262.72] died: Gearling hit the ground too hard
+[24Jun2025 21:59:22.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108066, l='ServerLevel[world]', x=-933.50, y=224.50, z=264.12] died: Gearling hit the ground too hard
+[24Jun2025 21:59:29.661] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 21:59:29.683] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 21:59:41.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 21:59:41.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 21:59:42.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 22:00:06.437] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:00:06.439] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:00:08.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108861, l='ServerLevel[world]', x=-933.72, y=224.00, z=263.75] died: Gearling hit the ground too hard
+[24Jun2025 22:00:12.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by HEISENBERGXD
+[24Jun2025 22:00:12.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-929, y:233, z:266, dim:minecraft:overworld]
+[24Jun2025 22:00:14.191] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802414148
+[24Jun2025 22:00:32.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/110353, l='ServerLevel[world]', x=-932.90, y=225.00, z=264.42] died: Gearling hit the ground too hard
+[24Jun2025 22:00:36.265] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:00:36.282] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:00:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 22:01:16.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106311, l='ServerLevel[world]', x=-935.16, y=224.00, z=262.68] died: Gearling hit the ground too hard
+[24Jun2025 22:01:37.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108717, l='ServerLevel[world]', x=-933.75, y=224.50, z=263.91] died: Gearling hit the ground too hard
+[24Jun2025 22:01:56.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108713, l='ServerLevel[world]', x=-933.96, y=224.00, z=263.14] died: Gearling fell from a high place
+[24Jun2025 22:02:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[24Jun2025 22:02:02.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103562, l='ServerLevel[world]', x=-922.62, y=238.50, z=256.16] died: Gearling hit the ground too hard
+[24Jun2025 22:02:21.310] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:02:21.321] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:02:32.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:02:34.524] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802554524
+[24Jun2025 22:03:20.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103264, l='ServerLevel[world]', x=-922.59, y=238.50, z=256.16] died: Gearling hit the ground too hard
+[24Jun2025 22:04:41.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:04:41.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:04:41.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/112899, l='ServerLevel[world]', x=-936.01, y=225.00, z=262.54] died: Gearling hit the ground too hard
+[24Jun2025 22:05:33.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105230, l='ServerLevel[world]', x=-931.78, y=229.26, z=246.50] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:05:40.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103345, l='ServerLevel[world]', x=-928.84, y=241.00, z=266.85] died: Gearling was slain by elpepe
+[24Jun2025 22:05:55.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/103774, l='ServerLevel[world]', x=-938.78, y=243.50, z=254.96] died: Gearling hit the ground too hard
+[24Jun2025 22:06:19.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113598, l='ServerLevel[world]', x=-938.36, y=229.00, z=261.01] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:33.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113610, l='ServerLevel[world]', x=-936.21, y=228.52, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:34.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108840, l='ServerLevel[world]', x=-936.56, y=228.00, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:37.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106949, l='ServerLevel[world]', x=-936.34, y=227.50, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:40.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/112907, l='ServerLevel[world]', x=-935.95, y=227.50, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:41.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/112896, l='ServerLevel[world]', x=-935.47, y=228.02, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:06:56.004] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:06:56.017] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:07:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:07:19.318] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-934, y:242, z:254, dim:minecraft:overworld]
+[24Jun2025 22:07:21.163] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802841159
+[24Jun2025 22:07:59.106] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:07:59.122] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:08:08.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:08:08.364] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-935, y:242, z:258, dim:minecraft:overworld]
+[24Jun2025 22:08:09.734] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750802889734
+[24Jun2025 22:08:58.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105046, l='ServerLevel[world]', x=-926.11, y=243.00, z=266.54] died: Gearling fell from a high place
+[24Jun2025 22:09:04.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/108867, l='ServerLevel[world]', x=-935.14, y=227.50, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:09:08.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/112909, l='ServerLevel[world]', x=-935.56, y=228.02, z=261.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:09:41.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:09:41.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:11:55.964] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 22:11:55.978] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 22:12:08.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to elpepe]
+[24Jun2025 22:14:41.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:14:41.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:18:07.770] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:18:07.780] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:18:08.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[24Jun2025 22:18:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HEISENBERGXD> e
+[24Jun2025 22:18:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Listen directly]
+[24Jun2025 22:18:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Listen directly]
+[24Jun2025 22:18:50.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 22:19:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Wither Skeleton
+[24Jun2025 22:19:07.723] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-909, y:212, z:259, dim:minecraft:overworld]
+[24Jun2025 22:19:09.149] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803549112
+[24Jun2025 22:19:41.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:19:41.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:20:39.670] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 22:20:39.679] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 22:20:43.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/120288, l='ServerLevel[world]', x=-929.47, y=212.00, z=227.39] died: Gearling was shot by elpepe
+[24Jun2025 22:20:51.918] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:20:51.925] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:21:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:21:01.784] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-921, y:212, z:217, dim:minecraft:overworld]
+[24Jun2025 22:21:04.520] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803664514
+[24Jun2025 22:21:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 22:21:12.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-923, y:212, z:247, dim:minecraft:overworld]
+[24Jun2025 22:21:13.608] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803673577
+[24Jun2025 22:21:22.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/120305, l='ServerLevel[world]', x=-927.69, y=212.00, z=247.49] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:21:26.069] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 22:21:26.081] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 22:22:11.918] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:22:11.928] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:22:20.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:22:20.276] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-931, y:211, z:241, dim:minecraft:overworld]
+[24Jun2025 22:22:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 22:22:21.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-929, y:212, z:227, dim:minecraft:overworld]
+[24Jun2025 22:22:21.954] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803741918
+[24Jun2025 22:22:22.647] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803742615
+[24Jun2025 22:22:38.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/120202, l='ServerLevel[world]', x=-927.09, y=212.00, z=237.88] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[24Jun2025 22:22:40.918] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 22:22:40.931] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 22:22:51.663] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:22:51.677] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:23:06.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:23:06.678] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-933, y:212, z:238, dim:minecraft:overworld]
+[24Jun2025 22:23:08.225] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803788217
+[24Jun2025 22:23:23.215] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:23:23.232] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:23:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:23:31.426] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-933, y:212, z:240, dim:minecraft:overworld]
+[24Jun2025 22:23:32.742] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803812715
+[24Jun2025 22:23:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 22:23:36.774] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-916, y:212, z:260, dim:minecraft:overworld]
+[24Jun2025 22:23:38.095] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803818062
+[24Jun2025 22:23:48.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/120704, l='ServerLevel[world]', x=-922.77, y=213.02, z=248.69] died: 1$s has perished from holy damage
+[24Jun2025 22:23:52.016] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 22:23:52.029] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 22:23:53.914] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:23:53.932] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 22:24:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 22:24:00.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-929, y:211, z:246, dim:minecraft:overworld]
+[24Jun2025 22:24:02.410] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803842377
+[24Jun2025 22:24:24.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
+[24Jun2025 22:24:24.984] [Server thread/DEBUG] [tombstone/]: A new grave of the player HEISENBERGXD was created at position [x:-916, y:212, z:259, dim:minecraft:overworld]
+[24Jun2025 22:24:29.680] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750803869677
+[24Jun2025 22:24:41.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:24:41.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:26:59.171] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 22:26:59.173] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved

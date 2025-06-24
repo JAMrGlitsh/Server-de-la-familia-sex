@@ -4364,9 +4364,51 @@
     },
     "done": true
   },
+  "exposure:adventure/exposure": {
+    "criteria": {
+      "expose_frame": "2025-06-24 21:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-06-24 22:10:59 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2025-06-24 21:39:23 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-06-24 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-24 21:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
     },
     "done": true
   },
@@ -4376,9 +4418,33 @@
     },
     "done": true
   },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_the_recipe": "2025-06-24 22:05:50 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/developing_color_film": {
+    "criteria": {
+      "has_color_film": "2025-06-24 21:43:12 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-06-24 22:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-06-24 21:03:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
     },
     "done": true
   },
@@ -4412,6 +4478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-24 21:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-06-24 21:03:19 +0000"
@@ -4421,6 +4493,12 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-06-24 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2025-06-24 21:39:23 +0000"
     },
     "done": true
   },
