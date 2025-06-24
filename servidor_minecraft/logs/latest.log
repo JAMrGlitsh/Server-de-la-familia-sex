@@ -647,3 +647,39 @@
 [24Jun2025 19:04:24.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37602, l='ServerLevel[world]', x=-826.64, y=186.50, z=157.81] died: Gearling fell from a high place
 [24Jun2025 19:04:39.005] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
 [24Jun2025 19:04:39.017] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 19:04:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 19:04:59.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37617, l='ServerLevel[world]', x=-833.63, y=190.06, z=153.00] died: Gearling fell from a high place
+[24Jun2025 19:05:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 19:05:52.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/37598, l='ServerLevel[world]', x=-828.90, y=190.00, z=162.52] died: Gearling fell from a high place
+[24Jun2025 19:10:29.060] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:10:29.076] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:10:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:11:00.163] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:11:00.178] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:11:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:11:27.458] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 19:11:27.477] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 19:11:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 19:12:18.307] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:12:18.327] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:12:25.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:12:31.365] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:12:31.381] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:12:38.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:12:43.212] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:12:43.221] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:12:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:13:23.667] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:13:23.686] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:13:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:13:52.562] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:13:52.583] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:13:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:14:07.008] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:14:07.024] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:14:13.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:14:35.259] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:14:35.280] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 19:14:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 19:14:46.605] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 19:14:46.626] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
