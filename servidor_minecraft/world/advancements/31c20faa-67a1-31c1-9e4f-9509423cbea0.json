@@ -2969,6 +2969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-24 22:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-24 20:40:18 +0000"
@@ -2990,6 +2996,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-06-24 21:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 22:29:45 +0000"
     },
     "done": true
   },
@@ -3059,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 22:29:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-06-24 20:40:18 +0000"
@@ -3068,6 +3086,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-24 17:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 22:29:45 +0000"
     },
     "done": true
   },
@@ -3116,6 +3140,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-24 20:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-24 22:30:30 +0000"
     },
     "done": true
   },
@@ -3272,6 +3302,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_cut_copper": "2025-06-24 19:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-24 22:30:30 +0000"
     },
     "done": true
   },
