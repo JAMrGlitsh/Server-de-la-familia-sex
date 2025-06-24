@@ -598,3 +598,25 @@
 [24Jun2025 18:33:35.464] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
 [24Jun2025 18:33:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD blew up
 [24Jun2025 18:33:36.779] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:35:18.718] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:35:18.722] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:35:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 18:35:56.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30062, l='ServerLevel[world]', x=-833.84, y=190.06, z=153.08] died: Gearling fell from a high place
+[24Jun2025 18:36:11.213] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:36:11.223] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:36:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 18:39:51.659] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 18:39:51.672] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 18:40:48.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> q
+[24Jun2025 18:40:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 18:40:53.004] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 18:40:53.016] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 18:41:40.965] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 18:41:40.968] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 18:41:47.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
+[24Jun2025 18:41:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 18:42:11.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50202] logged in with entity id 32133 at (-251.01757955994034, 65.5625, 1168.0624913130723)
+[24Jun2025 18:42:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[24Jun2025 18:42:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Kingg9]
+[24Jun2025 18:44:20.822] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 18:44:20.826] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
