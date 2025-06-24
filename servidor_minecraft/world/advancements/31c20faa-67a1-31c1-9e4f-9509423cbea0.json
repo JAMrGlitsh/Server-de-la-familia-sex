@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-24 04:28:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-24 02:59:44 +0000"
@@ -867,6 +873,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-24 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-24 04:22:40 +0000"
     },
     "done": true
   },
@@ -975,6 +987,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-24 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-24 04:28:22 +0000"
     },
     "done": true
   },
@@ -1621,6 +1639,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-06-24 03:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-24 04:28:22 +0000"
     },
     "done": true
   },
@@ -2453,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-24 04:30:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-06-24 03:37:05 +0000"
@@ -2522,6 +2552,12 @@
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-24 03:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-24 04:28:22 +0000"
     },
     "done": true
   },

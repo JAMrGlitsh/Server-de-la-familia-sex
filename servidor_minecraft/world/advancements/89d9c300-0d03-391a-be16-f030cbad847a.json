@@ -1156,7 +1156,8 @@
       "minecraft:cave_spider": "2025-06-24 02:37:24 +0000",
       "minecraft:enderman": "2025-06-23 23:18:27 +0000",
       "minecraft:zombie": "2025-06-23 03:49:40 +0000",
-      "minecraft:drowned": "2025-06-23 22:51:10 +0000"
+      "minecraft:drowned": "2025-06-23 22:51:10 +0000",
+      "minecraft:zombie_villager": "2025-06-24 04:30:49 +0000"
     },
     "done": false
   },
@@ -3295,6 +3296,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 04:24:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-24 03:53:24 +0000"
@@ -3430,6 +3437,12 @@
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-24 03:53:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-24 04:38:56 +0000"
     },
     "done": true
   },
@@ -3964,6 +3977,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-24 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-24 04:26:52 +0000"
     },
     "done": true
   },
