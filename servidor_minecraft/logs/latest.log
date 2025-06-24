@@ -219,3 +219,84 @@
 [24Jun2025 01:30:25.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
 [24Jun2025 01:31:22.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66da8cc6[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:60661) lost connection: Disconnected
 [24Jun2025 01:32:58.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6895d1c0[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62493) lost connection: Disconnected
+[24Jun2025 01:34:00.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@653ada43[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62502) lost connection: Timed out
+[24Jun2025 01:34:16.677] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[24Jun2025 01:34:16.691] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[24Jun2025 01:34:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[24Jun2025 01:34:50.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6808399[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62507): Took too long to log in
+[24Jun2025 01:34:50.391] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6808399[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62507) lost connection: Took too long to log in
+[24Jun2025 01:34:50.439] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 01:35:14.778] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[24Jun2025 01:35:14.797] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[24Jun2025 01:35:33.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@b973be5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62511): Took too long to log in
+[24Jun2025 01:35:33.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b973be5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62511) lost connection: Took too long to log in
+[24Jun2025 01:35:33.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 01:35:43.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[24Jun2025 01:38:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Chompy]
+[24Jun2025 01:43:34.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62954] logged in with entity id 115700 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:43:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:44:35.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[24Jun2025 01:44:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:45:05.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62962] logged in with entity id 116158 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:45:05.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:45:45.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[24Jun2025 01:45:45.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:45:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:46:44.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@72f80251[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62975): Took too long to log in
+[24Jun2025 01:46:44.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72f80251[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62975) lost connection: Took too long to log in
+[24Jun2025 01:46:44.587] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 01:46:45.979] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 01:46:45.994] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 01:47:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 01:47:52.282] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 01:47:52.295] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 01:47:52.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73e52c5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62982): Took too long to log in
+[24Jun2025 01:47:52.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73e52c5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62982) lost connection: Took too long to log in
+[24Jun2025 01:47:52.638] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 01:48:21.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@575ec4cc[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62987) lost connection: Disconnected
+[24Jun2025 01:48:39.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16cfd90f[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62992) lost connection: Disconnected
+[24Jun2025 01:48:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was blown up by Swamp Creeper
+[24Jun2025 01:49:00.540] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29ea20ca[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62998) lost connection: Disconnected
+[24Jun2025 01:50:09.142] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[24Jun2025 01:50:09.144] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[24Jun2025 01:51:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Spooky Scary Skeleton]
+[24Jun2025 01:54:51.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:63134] logged in with entity id 119532 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:54:51.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:55:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> bgg
+[24Jun2025 01:55:19.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ._:
+[24Jun2025 01:55:27.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien se me atraviese
+[24Jun2025 01:55:30.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> lo matare
+[24Jun2025 01:55:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ultimo aviso
+[24Jun2025 01:55:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien tiene una enderpearl
+[24Jun2025 01:56:05.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien tiene una fokin enderpearl
+[24Jun2025 01:56:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> donde
+[24Jun2025 01:59:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set Misterchuwa's game mode to Creative Mode]
+[24Jun2025 02:00:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Most Useful Key]
+[24Jun2025 02:00:19.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [A Fast Comeback]
+[24Jun2025 02:00:25.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Easy Opening]
+[24Jun2025 02:00:39.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set Misterchuwa's game mode to Survival Mode]
+[24Jun2025 02:02:19.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ambush]
+[24Jun2025 02:03:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Music register]
+[24Jun2025 02:04:57.340] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 02:04:57.355] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 02:05:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Ravager
+[24Jun2025 02:05:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Writing...]
+[24Jun2025 02:06:09.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[24Jun2025 02:06:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[24Jun2025 02:06:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [DJ! DJ!]
+[24Jun2025 02:06:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [DJ! DJ!]
+[24Jun2025 02:06:31.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:55877] logged in with entity id 124033 at (-837.0398755033382, 144.0, 153.8395980877655)
+[24Jun2025 02:06:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[24Jun2025 02:13:09.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ef88a9d[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50761) lost connection: Disconnected
+[24Jun2025 02:13:35.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6711516b[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50759): Took too long to log in
+[24Jun2025 02:13:35.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6711516b[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50759) lost connection: Took too long to log in
+[24Jun2025 02:13:35.298] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 02:14:03.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@390d3d1[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50775) lost connection: Disconnected
+[24Jun2025 02:16:30.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:50888] logged in with entity id 128355 at (8.5, 85.0, 4.5)
+[24Jun2025 02:16:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[24Jun2025 02:16:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> argenis?=
+[24Jun2025 02:17:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [We do a little trolling...]
+[24Jun2025 02:17:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[24Jun2025 02:18:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [DJ! DJ!]
+[24Jun2025 02:18:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Fortuitous Militia]
+[24Jun2025 02:21:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Once Upon a Cave]
