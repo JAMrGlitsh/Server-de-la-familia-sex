@@ -166,3 +166,56 @@
 [24Jun2025 01:01:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
 [24Jun2025 01:02:40.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57662] logged in with entity id 100757 at (-251.5, 65.0, 1164.5)
 [24Jun2025 01:02:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:03:25.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:03:25.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:03:39.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@faf65a1[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57668) lost connection: Disconnected
+[24Jun2025 01:03:55.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b95f3a1[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57671) lost connection: Disconnected
+[24Jun2025 01:06:05.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ae1afae[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57674) lost connection: Disconnected
+[24Jun2025 01:06:22.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57677] logged in with entity id 101534 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:06:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:07:13.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:07:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:08:30.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a6c519[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57723) lost connection: Disconnected
+[24Jun2025 01:08:38.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@756f0ceb[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57724) lost connection: Disconnected
+[24Jun2025 01:09:57.889] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16e8b0c[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57994) lost connection: Timed out
+[24Jun2025 01:11:15.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[24Jun2025 01:11:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[24Jun2025 01:11:17.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f9e3cfb[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:58228) lost connection: Disconnected
+[24Jun2025 01:11:33.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:58231] logged in with entity id 102590 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:11:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:11:34.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:54956] logged in with entity id 102595 at (-839.57076970423, 156.0, 153.69999998807907)
+[24Jun2025 01:11:34.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[24Jun2025 01:12:03.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:12:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:13:17.236] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26cd2668[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49961) lost connection: Disconnected
+[24Jun2025 01:13:26.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f97240d[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49964) lost connection: Disconnected
+[24Jun2025 01:14:01.199] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1781e7b4[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49966): Took too long to log in
+[24Jun2025 01:14:01.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1781e7b4[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49966) lost connection: Took too long to log in
+[24Jun2025 01:14:01.241] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jun2025 01:14:37.689] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64950ce5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49976) lost connection: Disconnected
+[24Jun2025 01:16:05.984] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 01:16:05.993] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 01:16:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 01:16:32.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a717b41[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49994) lost connection: Disconnected
+[24Jun2025 01:17:33.634] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26b25383[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49999) lost connection: Disconnected
+[24Jun2025 01:18:02.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50010] logged in with entity id 105185 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:18:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:18:47.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:18:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:24:44.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51013] logged in with entity id 106886 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:24:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:25:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Bone Crusher]
+[24Jun2025 01:25:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[24Jun2025 01:25:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:28:14.928] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 01:28:14.940] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 01:28:26.789] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa85bc5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51444) lost connection: Disconnected
+[24Jun2025 01:28:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[24Jun2025 01:29:15.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@697723f8[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51540) lost connection: Disconnected
+[24Jun2025 01:29:48.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51590] logged in with entity id 108619 at (-251.5, 65.0, 1164.5)
+[24Jun2025 01:29:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 01:30:12.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> 1 2 3 ...
+[24Jun2025 01:30:25.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[24Jun2025 01:30:25.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[24Jun2025 01:31:22.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66da8cc6[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:60661) lost connection: Disconnected
+[24Jun2025 01:32:58.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6895d1c0[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62493) lost connection: Disconnected

@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-24 01:31:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-06-24 00:10:50 +0000"
@@ -2187,6 +2193,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-24 01:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-06-23 22:06:09 +0000"
@@ -2286,6 +2298,12 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-23 22:32:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-24 01:31:30 +0000"
     },
     "done": true
   },
@@ -2794,6 +2812,7 @@
       "mutton": "2025-06-24 00:24:15 +0000",
       "bread": "2025-06-23 23:04:44 +0000",
       "rotten_flesh": "2025-06-23 22:35:28 +0000",
+      "salmon": "2025-06-24 01:13:24 +0000",
       "golden_carrot": "2025-06-23 22:56:29 +0000",
       "cooked_salmon": "2025-06-23 23:58:43 +0000"
     },
