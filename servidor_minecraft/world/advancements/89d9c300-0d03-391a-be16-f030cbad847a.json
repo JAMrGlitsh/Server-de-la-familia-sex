@@ -4160,6 +4160,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 18:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-24 18:08:53 +0000"
@@ -4169,6 +4175,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-06-24 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-24 18:13:07 +0000"
     },
     "done": true
   },

@@ -1430,7 +1430,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-24 03:15:18 +0000",
+      "minecraft:ravager": "2025-06-24 18:13:35 +0000",
       "minecraft:spider": "2025-06-24 03:02:39 +0000",
+      "minecraft:creeper": "2025-06-24 18:13:58 +0000",
       "minecraft:zombie": "2025-06-24 03:05:30 +0000"
     },
     "done": false
@@ -2977,6 +2979,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-24 18:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-24 17:36:22 +0000"
@@ -2986,6 +2994,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-24 17:36:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-06-24 18:19:11 +0000"
     },
     "done": true
   },
@@ -3022,6 +3036,12 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-24 17:17:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 18:13:35 +0000"
     },
     "done": true
   },

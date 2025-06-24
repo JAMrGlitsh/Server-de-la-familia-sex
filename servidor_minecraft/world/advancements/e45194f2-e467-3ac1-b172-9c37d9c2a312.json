@@ -3546,5 +3546,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-24 18:19:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-24 18:18:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
