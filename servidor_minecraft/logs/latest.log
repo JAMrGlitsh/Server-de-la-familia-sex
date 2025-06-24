@@ -1,606 +1,477 @@
-[24Jun2025 00:01:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Wax Off]
-[24Jun2025 00:01:54.684] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:01:54.699] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:02:47.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Getting an Upgrade]
-[24Jun2025 00:02:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 00:04:37.544] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:04:37.550] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:04:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe went off with a bang
-[24Jun2025 00:04:38.351] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:05:25.580] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:05:25.594] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:05:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe went off with a bang
-[24Jun2025 00:05:32.196] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:06:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Diamonds!]
-[24Jun2025 00:07:07.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Alex's Caves]
-[24Jun2025 00:09:24.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:09:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:09:57.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:09:57.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:10:33.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:61287] logged in with entity id 75825 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:10:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:10:55.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:11:01.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:11:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:11:47.875] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:11:47.891] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:12:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 00:12:06.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:61346] logged in with entity id 76877 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:12:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:12:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:12:34.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
-[24Jun2025 00:12:36.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:12:36.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:12:48.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:61381] logged in with entity id 77295 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:12:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:13:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:13:12.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ¡
-[24Jun2025 00:13:17.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:13:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:14:49.945] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:14:49.949] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:14:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe hit the ground too hard
-[24Jun2025 00:15:35.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A Moment in Time]
-[24Jun2025 00:17:25.895] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@433d9c1c[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62342) lost connection: Disconnected
-[24Jun2025 00:17:38.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62348] logged in with entity id 79489 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:17:38.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:18:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:18:28.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:18:28.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:18:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Hot Stuff]
-[24Jun2025 00:19:09.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62365] logged in with entity id 80163 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:19:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:19:29.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito
-[24Jun2025 00:19:52.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:19:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:20:05.932] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:20:05.943] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:20:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe went off with a bang
-[24Jun2025 00:20:07.642] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:20:32.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62383] logged in with entity id 81322 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:20:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:20:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:20:55.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:20:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:21:17.080] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 00:21:17.094] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 00:22:02.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
-[24Jun2025 00:22:21.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64871e1a[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62529) lost connection: Disconnected
-[24Jun2025 00:22:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Diamonds!]
-[24Jun2025 00:22:37.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62538] logged in with entity id 82096 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:22:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:22:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:23:23.087] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:23:23.102] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:23:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:23:25.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:23:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:23:36.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe went off with a bang
-[24Jun2025 00:23:36.042] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:24:45.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62711] logged in with entity id 83443 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:24:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:24:45.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:24:45.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:24:45.664] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 00:25:03.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36c57bfa[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62716) lost connection: Disconnected
-[24Jun2025 00:25:18.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62719] logged in with entity id 83701 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:25:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:26:10.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:26:10.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:26:10.397] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 00:27:23.631] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:27:23.644] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:27:51.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62772] logged in with entity id 84577 at (-483.30000001192093, -31.0, 1049.300000011921)
-[24Jun2025 00:27:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:27:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> hh
-[24Jun2025 00:28:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito jose
-[24Jun2025 00:28:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> maldito jose
-[24Jun2025 00:28:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 00:28:36.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:28:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:29:00.992] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@790aeda0[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62793) lost connection: Disconnected
-[24Jun2025 00:29:36.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@37058ab[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62799): Took too long to log in
-[24Jun2025 00:29:36.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37058ab[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62799) lost connection: Took too long to log in
-[24Jun2025 00:29:36.339] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 00:30:19.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@252ad8c6[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62822) lost connection: Disconnected
-[24Jun2025 00:30:59.187] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 00:30:59.189] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 00:31:29.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5420d5b3[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62838) lost connection: Disconnected
-[24Jun2025 00:31:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
-[24Jun2025 00:36:06.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:63045] logged in with entity id 87471 at (-544.0742424047493, -36.0, 1080.621577694126)
-[24Jun2025 00:36:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:36:36.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:36:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:36:59.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:36:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:37:33.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f29ec86[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:63064) lost connection: Disconnected
-[24Jun2025 00:38:05.934] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:38:05.946] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:38:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 00:40:46.482] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 00:40:46.498] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 00:41:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 00:43:41.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49913] logged in with entity id 92296 at (-544.0742424047493, -36.0, 1080.621577694126)
-[24Jun2025 00:43:41.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:44:00.390] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[24Jun2025 00:44:00.400] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[24Jun2025 00:44:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:44:40.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:44:40.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:44:40.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Zombie
-[24Jun2025 00:44:54.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:49958] logged in with entity id 93240 at (-544.0742424047493, -36.0, 1080.621577694126)
-[24Jun2025 00:44:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:45:55.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:45:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:46:43.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54f61034[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50115) lost connection: Disconnected
-[24Jun2025 00:47:46.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6173f5ff[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50265): Took too long to log in
-[24Jun2025 00:47:46.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6173f5ff[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50265) lost connection: Took too long to log in
-[24Jun2025 00:47:46.297] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 00:51:18.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50474] logged in with entity id 95652 at (-251.5, 65.0, 1164.5)
-[24Jun2025 00:51:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:51:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ?
-[24Jun2025 00:51:55.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:51:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:54:15.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50809] logged in with entity id 97968 at (-251.5, 65.0, 1164.5)
-[24Jun2025 00:54:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:54:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 00:54:55.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 00:54:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:55:56.098] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70cd53c4[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50960) lost connection: Disconnected
-[24Jun2025 00:56:48.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ca92b0d[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:50967) lost connection: Disconnected
-[24Jun2025 00:56:59.788] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 00:56:59.803] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 00:57:34.296] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19efcd6c[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:54054) lost connection: Disconnected
-[24Jun2025 00:57:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
-[24Jun2025 00:57:45.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54063] logged in with entity id 99726 at (-251.5, 65.0, 1164.5)
-[24Jun2025 00:57:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 00:58:46.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 00:58:46.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 00:59:33.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57626] logged in with entity id 100092 at (-251.5, 65.0, 1164.5)
-[24Jun2025 00:59:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:00:33.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 01:00:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:01:15.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57643] logged in with entity id 100459 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:01:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:01:52.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:01:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:02:40.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57662] logged in with entity id 100757 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:02:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:03:25.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:03:25.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:03:39.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@faf65a1[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57668) lost connection: Disconnected
-[24Jun2025 01:03:55.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b95f3a1[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57671) lost connection: Disconnected
-[24Jun2025 01:06:05.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ae1afae[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57674) lost connection: Disconnected
-[24Jun2025 01:06:22.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57677] logged in with entity id 101534 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:06:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:07:13.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:07:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:08:30.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a6c519[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57723) lost connection: Disconnected
-[24Jun2025 01:08:38.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@756f0ceb[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57724) lost connection: Disconnected
-[24Jun2025 01:09:57.889] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16e8b0c[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:57994) lost connection: Timed out
-[24Jun2025 01:11:15.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
-[24Jun2025 01:11:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[24Jun2025 01:11:17.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f9e3cfb[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:58228) lost connection: Disconnected
-[24Jun2025 01:11:33.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:58231] logged in with entity id 102590 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:11:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:11:34.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:54956] logged in with entity id 102595 at (-839.57076970423, 156.0, 153.69999998807907)
-[24Jun2025 01:11:34.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[24Jun2025 01:12:03.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:12:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:13:17.236] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26cd2668[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49961) lost connection: Disconnected
-[24Jun2025 01:13:26.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f97240d[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49964) lost connection: Disconnected
-[24Jun2025 01:14:01.199] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1781e7b4[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49966): Took too long to log in
-[24Jun2025 01:14:01.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1781e7b4[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49966) lost connection: Took too long to log in
-[24Jun2025 01:14:01.241] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 01:14:37.689] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64950ce5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49976) lost connection: Disconnected
-[24Jun2025 01:16:05.984] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 01:16:05.993] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 01:16:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 01:16:32.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a717b41[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49994) lost connection: Disconnected
-[24Jun2025 01:17:33.634] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26b25383[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:49999) lost connection: Disconnected
-[24Jun2025 01:18:02.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:50010] logged in with entity id 105185 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:18:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:18:47.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:18:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:24:44.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51013] logged in with entity id 106886 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:24:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:25:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Bone Crusher]
-[24Jun2025 01:25:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 01:25:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:28:14.928] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 01:28:14.940] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 01:28:26.789] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa85bc5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51444) lost connection: Disconnected
-[24Jun2025 01:28:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 01:29:15.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@697723f8[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:51540) lost connection: Disconnected
-[24Jun2025 01:29:48.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51590] logged in with entity id 108619 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:29:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:30:12.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> 1 2 3 ...
-[24Jun2025 01:30:25.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:30:25.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:31:22.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66da8cc6[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:60661) lost connection: Disconnected
-[24Jun2025 01:32:58.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6895d1c0[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62493) lost connection: Disconnected
-[24Jun2025 01:34:00.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@653ada43[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62502) lost connection: Timed out
-[24Jun2025 01:34:16.677] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 01:34:16.691] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 01:34:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
-[24Jun2025 01:34:50.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6808399[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62507): Took too long to log in
-[24Jun2025 01:34:50.391] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6808399[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62507) lost connection: Took too long to log in
-[24Jun2025 01:34:50.439] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 01:35:14.778] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 01:35:14.797] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 01:35:33.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@b973be5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62511): Took too long to log in
-[24Jun2025 01:35:33.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b973be5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62511) lost connection: Took too long to log in
-[24Jun2025 01:35:33.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 01:35:43.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
-[24Jun2025 01:38:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Chompy]
-[24Jun2025 01:43:34.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62954] logged in with entity id 115700 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:43:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:44:35.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
-[24Jun2025 01:44:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:45:05.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:62962] logged in with entity id 116158 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:45:05.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:45:45.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[24Jun2025 01:45:45.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[24Jun2025 01:45:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[24Jun2025 01:46:44.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@72f80251[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62975): Took too long to log in
-[24Jun2025 01:46:44.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72f80251[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62975) lost connection: Took too long to log in
-[24Jun2025 01:46:44.587] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 01:46:45.979] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 01:46:45.994] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 01:47:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 01:47:52.282] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 01:47:52.295] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 01:47:52.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73e52c5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62982): Took too long to log in
-[24Jun2025 01:47:52.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73e52c5[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62982) lost connection: Took too long to log in
-[24Jun2025 01:47:52.638] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 01:48:21.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@575ec4cc[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62987) lost connection: Disconnected
-[24Jun2025 01:48:39.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16cfd90f[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62992) lost connection: Disconnected
-[24Jun2025 01:48:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was blown up by Swamp Creeper
-[24Jun2025 01:49:00.540] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29ea20ca[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:62998) lost connection: Disconnected
-[24Jun2025 01:50:09.142] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 01:50:09.144] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 01:51:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Spooky Scary Skeleton]
-[24Jun2025 01:54:51.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:63134] logged in with entity id 119532 at (-251.5, 65.0, 1164.5)
-[24Jun2025 01:54:51.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[24Jun2025 01:55:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> bgg
-[24Jun2025 01:55:19.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ._:
-[24Jun2025 01:55:27.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien se me atraviese
-[24Jun2025 01:55:30.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> lo matare
-[24Jun2025 01:55:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ultimo aviso
-[24Jun2025 01:55:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien tiene una enderpearl
-[24Jun2025 01:56:05.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> quien tiene una fokin enderpearl
-[24Jun2025 01:56:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> donde
-[24Jun2025 01:59:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set Misterchuwa's game mode to Creative Mode]
-[24Jun2025 02:00:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Most Useful Key]
-[24Jun2025 02:00:19.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [A Fast Comeback]
-[24Jun2025 02:00:25.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Easy Opening]
-[24Jun2025 02:00:39.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set Misterchuwa's game mode to Survival Mode]
-[24Jun2025 02:02:19.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ambush]
-[24Jun2025 02:03:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Music register]
-[24Jun2025 02:04:57.340] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 02:04:57.355] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 02:05:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Ravager
-[24Jun2025 02:05:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Writing...]
-[24Jun2025 02:06:09.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
-[24Jun2025 02:06:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[24Jun2025 02:06:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [DJ! DJ!]
-[24Jun2025 02:06:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [DJ! DJ!]
-[24Jun2025 02:06:31.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:55877] logged in with entity id 124033 at (-837.0398755033382, 144.0, 153.8395980877655)
-[24Jun2025 02:06:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[24Jun2025 02:13:09.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ef88a9d[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50761) lost connection: Disconnected
-[24Jun2025 02:13:35.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6711516b[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50759): Took too long to log in
-[24Jun2025 02:13:35.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6711516b[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50759) lost connection: Took too long to log in
-[24Jun2025 02:13:35.298] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jun2025 02:14:03.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@390d3d1[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:50775) lost connection: Disconnected
-[24Jun2025 02:16:30.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:50888] logged in with entity id 128355 at (8.5, 85.0, 4.5)
-[24Jun2025 02:16:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
-[24Jun2025 02:16:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> argenis?=
-[24Jun2025 02:17:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [We do a little trolling...]
-[24Jun2025 02:17:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
-[24Jun2025 02:18:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [DJ! DJ!]
-[24Jun2025 02:18:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Fortuitous Militia]
-[24Jun2025 02:21:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Once Upon a Cave]
-[24Jun2025 02:24:20.144] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 02:24:20.147] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 02:25:07.637] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
-[24Jun2025 02:25:07.653] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
-[24Jun2025 02:25:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was shot by Skeleton
-[24Jun2025 02:25:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Your First Grave]
-[24Jun2025 02:26:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Suit Up]
-[24Jun2025 02:26:31.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132974, l='ServerLevel[world]', x=-836.28, y=169.50, z=160.30] died: Gearling fell from a high place
-[24Jun2025 02:27:12.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132712, l='ServerLevel[world]', x=-834.28, y=173.06, z=156.94] died: Gearling fell from a high place
-[24Jun2025 02:27:37.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/132993, l='ServerLevel[world]', x=-834.20, y=173.00, z=152.79] died: Gearling fell from a high place
-[24Jun2025 02:27:49.137] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 02:27:49.158] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 02:28:30.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/134300, l='ServerLevel[world]', x=-833.97, y=173.00, z=159.02] died: Gearling fell from a high place
-[24Jun2025 02:28:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 02:29:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to CHUCHIXD]
-[24Jun2025 02:29:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [DJ! DJ!]
-[24Jun2025 02:30:51.194] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['JAGlitsh'/6393, l='ServerLevel[world]', x=-251.91, y=65.56, z=1167.44] does not respect server-side emote tracking. Ignoring repeat
-[24Jun2025 02:30:52.307] [Netty Epoll Server IO #6/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/1223, l='ServerLevel[world]', x=-257.14, y=65.00, z=1167.79] does not respect server-side emote tracking. Ignoring repeat
-[24Jun2025 02:32:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Take Aim]
-[24Jun2025 02:34:16.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
-[24Jun2025 02:34:16.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
-[24Jun2025 02:36:07.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
-[24Jun2025 02:36:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
-[24Jun2025 02:37:21.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56547] logged in with entity id 139284 at (-252.93226952717615, 65.0, 1166.2776839289436)
-[24Jun2025 02:37:21.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
-[24Jun2025 02:37:45.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=65, z=1186} BlockPos{x=-205, y=63, z=1188}
-[24Jun2025 02:37:45.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=63, z=1185} BlockPos{x=-205, y=63, z=1186}
-[24Jun2025 02:38:02.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=64, z=1188} BlockPos{x=-189, y=62, z=1186}
-[24Jun2025 02:38:02.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=65, z=1185} BlockPos{x=-187, y=63, z=1184}
-[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=65, z=1185} BlockPos{x=-187, y=63, z=1184}
-[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=65, z=1184} BlockPos{x=-187, y=63, z=1184}
-[24Jun2025 02:38:02.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=65, z=1184} BlockPos{x=-187, y=63, z=1184}
-[24Jun2025 02:38:12.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
-[24Jun2025 02:38:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[24Jun2025 02:38:18.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51092] logged in with entity id 139624 at (-267.0835451082378, 64.0, 1169.449309039913)
-[24Jun2025 02:38:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
-[24Jun2025 02:38:21.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:56048] logged in with entity id 139640 at (-189.36722226427247, 64.0, 1184.2166845524287)
-[24Jun2025 02:38:21.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[24Jun2025 02:38:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Stone Age]
-[24Jun2025 02:38:48.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=65, z=1172} BlockPos{x=-191, y=63, z=1171}
-[24Jun2025 02:38:48.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=65, z=1172} BlockPos{x=-191, y=63, z=1170}
-[24Jun2025 02:38:48.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=65, z=1171} BlockPos{x=-193, y=63, z=1170}
-[24Jun2025 02:38:49.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=65, z=1169} BlockPos{x=-194, y=63, z=1166}
-[24Jun2025 02:38:49.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=65, z=1171} BlockPos{x=-195, y=63, z=1167}
-[24Jun2025 02:38:49.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=65, z=1172} BlockPos{x=-196, y=63, z=1168}
-[24Jun2025 02:38:55.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=65, z=1170} BlockPos{x=-198, y=63, z=1172}
-[24Jun2025 02:39:25.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -9.614576967946874,2.252203340253729,2.851615043367701
-[24Jun2025 02:39:27.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Alex's Mobs]
-[24Jun2025 02:43:04.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
-[24Jun2025 02:43:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
-[24Jun2025 02:43:49.947] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 02:43:49.952] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 02:44:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 02:46:52.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:54950] logged in with entity id 144493 at (-0.5, 86.0, -6.5)
-[24Jun2025 02:46:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
-[24Jun2025 02:47:59.801] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
-[24Jun2025 02:47:59.803] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
-[24Jun2025 02:48:33.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
-[24Jun2025 02:48:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
-[24Jun2025 02:48:40.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51128] logged in with entity id 145859 at (-257.38782844319076, 65.0, 1165.4713660636967)
-[24Jun2025 02:48:40.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
-[24Jun2025 02:48:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 was shot by Skeleton
-[24Jun2025 02:48:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Your First Grave]
-[24Jun2025 02:49:13.366] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 02:49:13.406] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 02:49:14.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
-[24Jun2025 02:49:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
-[24Jun2025 02:49:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
-[24Jun2025 02:50:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
-[24Jun2025 02:50:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Here They Come]
-[24Jun2025 02:51:09.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51232] logged in with entity id 147741 at (-256.3778583539459, 65.0, 1164.8031132204599)
-[24Jun2025 02:51:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
-[24Jun2025 02:51:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
-[24Jun2025 02:52:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
-[24Jun2025 02:53:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
-[24Jun2025 02:54:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [DJ! DJ!]
-[24Jun2025 02:55:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
-[24Jun2025 02:59:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Getting an Upgrade]
-[24Jun2025 02:59:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Stone Age]
-[24Jun2025 03:00:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Getting an Upgrade]
-[24Jun2025 03:01:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [No Step on Snake]
-[24Jun2025 03:02:20.945] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
-[24Jun2025 03:02:20.947] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
-[24Jun2025 03:02:33.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
-[24Jun2025 03:02:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Monster Hunter]
-[24Jun2025 03:09:46.747] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
-[24Jun2025 03:09:46.758] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
-[24Jun2025 03:09:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
-[24Jun2025 03:16:28.996] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:16:28.999] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:19:16.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Welcome To The Machine]
-[24Jun2025 03:19:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Alex's Mobs]
-[24Jun2025 03:30:18.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168760, l='ServerLevel[world]', x=-836.18, y=169.50, z=160.81] died: Gearling fell from a high place
-[24Jun2025 03:30:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
-[24Jun2025 03:31:05.841] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:31:05.845] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:31:10.193] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 03:31:10.197] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 03:31:10.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
-[24Jun2025 03:31:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
-[24Jun2025 03:32:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Knowledge of Death]
-[24Jun2025 03:32:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Strong or Careful]
-[24Jun2025 03:32:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
-[24Jun2025 03:32:33.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has reached the goal [Here They Come]
-[24Jun2025 03:32:58.125] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:32:58.131] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:33:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Jennifer Dumped Me]
-[24Jun2025 03:36:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [A Seedy Place]
-[24Jun2025 03:36:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [DJ! DJ!]
-[24Jun2025 03:37:05.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Funeral Theft]
-[24Jun2025 03:37:40.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [The Parrots and the Bats]
-[24Jun2025 03:40:33.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Acquire Hardware]
-[24Jun2025 03:43:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Isn't It Iron Pick]
-[24Jun2025 03:43:52.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Monster Hunter]
-[24Jun2025 03:43:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Knowledge of Death]
-[24Jun2025 03:43:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [A Strange Grave Dust]
-[24Jun2025 03:45:23.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Sweet Dreams]
-[24Jun2025 03:45:29.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HEISENBERGXD> ewa
-[24Jun2025 03:45:36.394] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
-[24Jun2025 03:45:36.397] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
-[24Jun2025 03:45:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Gone Bananas!]
-[24Jun2025 03:46:34.590] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
-[24Jun2025 03:46:34.594] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
-[24Jun2025 03:48:14.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176116, l='ServerLevel[world]', x=-836.59, y=169.50, z=160.62] died: Gearling fell from a high place
-[24Jun2025 03:48:26.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176169, l='ServerLevel[world]', x=-837.20, y=170.00, z=160.50] died: Gearling fell from a high place
-[24Jun2025 03:48:37.493] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:48:37.496] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:48:41.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176029, l='ServerLevel[world]', x=-827.98, y=173.06, z=164.90] died: Gearling fell from a high place
-[24Jun2025 03:48:48.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
-[24Jun2025 03:48:48.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176268, l='ServerLevel[world]', x=-836.78, y=169.50, z=160.57] died: Gearling fell from a high place
-[24Jun2025 03:49:36.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176419, l='ServerLevel[world]', x=-834.01, y=173.00, z=159.07] died: Gearling fell from a high place
-[24Jun2025 03:49:45.133] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:49:45.143] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:49:46.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176546, l='ServerLevel[world]', x=-836.57, y=173.00, z=158.64] died: Gearling fell from a high place
-[24Jun2025 03:49:47.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176554, l='ServerLevel[world]', x=-836.27, y=169.50, z=161.06] died: Gearling fell from a high place
-[24Jun2025 03:49:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 03:49:57.238] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 03:49:57.247] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 03:50:03.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176176, l='ServerLevel[world]', x=-829.91, y=173.06, z=166.32] died: Gearling fell from a high place
-[24Jun2025 03:50:48.187] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:50:48.199] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:50:57.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
-[24Jun2025 03:51:02.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176540, l='ServerLevel[world]', x=-821.43, y=146.00, z=171.50] died: Gearling fell from a high place
-[24Jun2025 03:51:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 03:52:49.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176620, l='ServerLevel[world]', x=-826.18, y=172.75, z=170.85] died: Gearling was slain by elpepe
-[24Jun2025 03:55:56.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/179009, l='ServerLevel[world]', x=-833.93, y=173.00, z=158.94] died: Gearling fell from a high place
-[24Jun2025 03:56:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Acquire Hardware]
-[24Jun2025 03:56:58.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/179255, l='ServerLevel[world]', x=-834.30, y=173.06, z=156.94] died: Gearling fell from a high place
-[24Jun2025 03:58:01.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176135, l='ServerLevel[world]', x=-820.51, y=171.00, z=160.85] died: Gearling was slain by elpepe
-[24Jun2025 03:58:26.481] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:58:26.491] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:58:36.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Suit Up]
-[24Jun2025 03:58:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 03:59:35.087] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 03:59:35.098] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 03:59:49.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:00:30.937] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:00:30.944] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:01:04.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176501, l='ServerLevel[world]', x=-826.26, y=173.00, z=156.84] died: Gearling fell from a high place
-[24Jun2025 04:01:17.984] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:01:17.994] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:01:30.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
-[24Jun2025 04:01:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:01:45.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/179931, l='ServerLevel[world]', x=-815.27, y=69.88, z=168.42] died: Gearling fell from a high place
-[24Jun2025 04:02:10.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180037, l='ServerLevel[world]', x=-832.95, y=173.06, z=156.75] died: Gearling fell from a high place
-[24Jun2025 04:02:15.582] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:02:15.590] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:02:27.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:03:15.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180682, l='ServerLevel[world]', x=-836.27, y=169.50, z=160.82] died: Gearling fell from a high place
-[24Jun2025 04:03:25.234] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:03:25.246] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:03:40.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:03:59.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176633, l='ServerLevel[world]', x=-819.53, y=146.00, z=149.66] died: Gearling fell from a high place
-[24Jun2025 04:04:13.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176301, l='ServerLevel[world]', x=-840.38, y=146.00, z=146.46] died: Gearling fell from a high place
-[24Jun2025 04:06:50.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181369, l='ServerLevel[world]', x=-833.87, y=173.06, z=155.61] died: Gearling was doomed to fall by HEISENBERGXD
-[24Jun2025 04:08:40.687] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:08:40.702] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:08:51.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Diamonds!]
-[24Jun2025 04:09:20.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181338, l='ServerLevel[world]', x=-819.48, y=146.00, z=149.55] died: Gearling fell from a high place
-[24Jun2025 04:09:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:09:46.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176121, l='ServerLevel[world]', x=-826.93, y=173.00, z=163.64] died: Gearling fell from a high place
-[24Jun2025 04:10:00.882] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:10:00.894] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:10:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:10:28.787] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:10:28.806] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:10:38.938] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:10:38.956] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:10:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
-[24Jun2025 04:10:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:10:52.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/175993, l='ServerLevel[world]', x=-828.19, y=173.06, z=165.30] died: Gearling fell from a high place
-[24Jun2025 04:11:17.181] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:11:17.195] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:11:28.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:12:00.487] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:12:00.506] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:12:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:12:21.687] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:12:21.701] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:12:31.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:12:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Ashes 'n Bones]
-[24Jun2025 04:13:27.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [A Strange Grave Dust]
-[24Jun2025 04:13:28.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/179304, l='ServerLevel[world]', x=-836.55, y=173.00, z=165.99] died: Gearling hit the ground too hard
-[24Jun2025 04:13:36.882] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:13:36.892] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:13:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:14:06.332] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:14:06.342] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:14:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:14:24.235] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:14:24.246] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:14:25.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181486, l='ServerLevel[world]', x=-828.85, y=173.00, z=168.61] died: Gearling fell from a high place
-[24Jun2025 04:14:32.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
-[24Jun2025 04:14:37.280] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:14:37.292] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:14:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:14:57.031] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:14:57.043] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:15:05.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:15:18.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176378, l='ServerLevel[world]', x=-818.22, y=166.02, z=158.32] died: Gearling was slain by elpepe
-[24Jun2025 04:15:40.083] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:15:40.092] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:15:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:15:52.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176521, l='ServerLevel[world]', x=-819.49, y=146.00, z=169.50] died: Gearling fell from a high place
-[24Jun2025 04:15:59.293] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:15:59.307] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:16:05.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:16:16.083] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:16:16.091] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:16:17.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/178981, l='ServerLevel[world]', x=-829.88, y=173.06, z=166.32] died: Gearling fell from a high place
-[24Jun2025 04:16:24.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:16:39.782] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:16:39.792] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:16:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
-[24Jun2025 04:16:51.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181942, l='ServerLevel[world]', x=-822.66, y=165.00, z=152.35] died: Gearling was slain by elpepe
-[24Jun2025 04:18:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Isn't It Iron Pick]
-[24Jun2025 04:19:46.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Timed out
-[24Jun2025 04:19:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
-[24Jun2025 04:19:55.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Timed out
-[24Jun2025 04:19:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
-[24Jun2025 04:19:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Getting an Upgrade]
-[24Jun2025 04:20:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Lorem Ipsum]
-[24Jun2025 04:22:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Not Today, Thank You]
-[24Jun2025 04:22:57.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181144, l='ServerLevel[world]', x=-829.88, y=173.06, z=166.32] died: Gearling fell from a high place
-[24Jun2025 04:22:58.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181328, l='ServerLevel[world]', x=-829.88, y=173.06, z=166.32] died: Gearling fell from a high place
-[24Jun2025 04:23:16.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180684, l='ServerLevel[world]', x=-819.64, y=189.00, z=160.63] died: Gearling was slain by HEISENBERGXD
-[24Jun2025 04:23:23.631] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:23:23.642] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:23:23.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181592, l='ServerLevel[world]', x=-819.52, y=189.00, z=156.10] died: Gearling was slain by HEISENBERGXD
-[24Jun2025 04:23:46.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
-[24Jun2025 04:24:47.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Stolen Magic]
-[24Jun2025 04:25:10.482] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:25:10.495] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:25:10.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/178930, l='ServerLevel[world]', x=-821.51, y=182.56, z=155.28] died: Gearling was slain by HEISENBERGXD
-[24Jun2025 04:26:01.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176191, l='ServerLevel[world]', x=-815.82, y=67.00, z=157.18] died: Gearling fell from a high place
-[24Jun2025 04:26:29.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181156, l='ServerLevel[world]', x=-836.60, y=173.00, z=165.99] died: Gearling hit the ground too hard
-[24Jun2025 04:26:52.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Pic-A-Nic Basket?]
-[24Jun2025 04:31:05.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180002, l='ServerLevel[world]', x=-815.46, y=118.00, z=160.50] died: Gearling fell from a high place
-[24Jun2025 04:31:07.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/181958, l='ServerLevel[world]', x=-815.45, y=118.00, z=160.50] died: Gearling fell from a high place
-[24Jun2025 04:31:26.931] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:31:26.944] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:32:15.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 04:33:57.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/188641, l='ServerLevel[world]', x=-818.45, y=146.00, z=168.52] died: Gearling fell from a high place
-[24Jun2025 04:34:37.887] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:34:37.889] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:35:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was doomed to fall by Skeleton
-[24Jun2025 04:37:16.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/190957, l='ServerLevel[world]', x=-828.03, y=190.00, z=160.37] died: Gearling fell from a high place
-[24Jun2025 04:37:19.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/190979, l='ServerLevel[world]', x=-826.62, y=186.50, z=157.20] died: Gearling fell from a high place
-[24Jun2025 04:37:23.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191022, l='ServerLevel[world]', x=-826.39, y=186.50, z=157.70] died: Gearling fell from a high place
-[24Jun2025 04:37:34.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191100, l='ServerLevel[world]', x=-826.41, y=186.50, z=157.71] died: Gearling fell from a high place
-[24Jun2025 04:37:37.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191116, l='ServerLevel[world]', x=-826.49, y=186.50, z=157.21] died: Gearling fell from a high place
-[24Jun2025 04:37:46.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/190943, l='ServerLevel[world]', x=-834.51, y=190.06, z=153.39] died: Gearling fell from a high place
-[24Jun2025 04:38:02.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191280, l='ServerLevel[world]', x=-826.73, y=186.50, z=158.23] died: Gearling fell from a high place
-[24Jun2025 04:38:04.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191285, l='ServerLevel[world]', x=-829.09, y=190.00, z=160.40] died: Gearling fell from a high place
-[24Jun2025 04:38:11.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191313, l='ServerLevel[world]', x=-829.05, y=190.00, z=160.46] died: Gearling fell from a high place
-[24Jun2025 04:38:30.329] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:38:30.346] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:38:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Journey Begins]
-[24Jun2025 04:39:10.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191171, l='ServerLevel[world]', x=-832.66, y=173.00, z=159.58] died: Gearling fell from a high place
-[24Jun2025 04:39:15.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 04:39:33.030] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:39:33.043] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:39:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 04:40:22.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191948, l='ServerLevel[world]', x=-826.85, y=186.50, z=158.66] died: Gearling fell from a high place
-[24Jun2025 04:40:33.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191991, l='ServerLevel[world]', x=-826.87, y=190.00, z=160.61] died: Gearling fell from a high place
-[24Jun2025 04:40:52.030] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[24Jun2025 04:40:52.045] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[24Jun2025 04:41:00.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191139, l='ServerLevel[world]', x=-833.09, y=173.00, z=158.03] died: Gearling fell from a high place
-[24Jun2025 04:41:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[24Jun2025 04:41:25.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/190947, l='ServerLevel[world]', x=-827.04, y=190.00, z=165.58] died: Gearling fell from a high place
-[24Jun2025 04:42:24.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191087, l='ServerLevel[world]', x=-829.07, y=190.06, z=161.83] died: Gearling fell from a high place
-[24Jun2025 04:42:32.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
-[24Jun2025 04:42:32.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[24Jun2025 04:42:41.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191955, l='ServerLevel[world]', x=-827.34, y=207.00, z=157.64] died: Gearling hit the ground too hard
-[24Jun2025 04:43:04.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/192003, l='ServerLevel[world]', x=-834.10, y=190.06, z=153.76] died: Gearling fell from a high place
-[24Jun2025 04:43:21.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/188624, l='ServerLevel[world]', x=-825.41, y=187.00, z=158.15] died: Gearling was slain by HEISENBERGXD
-[24Jun2025 04:44:09.681] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
-[24Jun2025 04:44:09.689] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
-[24Jun2025 04:44:35.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Gearling
-[24Jun2025 04:44:42.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191384, l='ServerLevel[world]', x=-827.29, y=183.00, z=149.33] died: Gearling was slain by HEISENBERGXD
-[24Jun2025 04:45:06.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/192947, l='ServerLevel[world]', x=-827.34, y=207.00, z=157.28] died: Gearling hit the ground too hard
-[24Jun2025 04:45:38.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/188381, l='ServerLevel[world]', x=-827.34, y=207.00, z=157.56] died: Gearling hit the ground too hard
-[24Jun2025 04:45:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Cover Me with Diamonds]
-[24Jun2025 04:46:01.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/191078, l='ServerLevel[world]', x=-827.03, y=182.00, z=148.35] died: Gearling was slain by HEISENBERGXD
+[24Jun2025 17:03:15.429] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jun2025 17:03:15.433] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24Jun2025 17:03:21.959] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jun2025 17:03:22.191] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jun2025 17:03:22.871] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jun2025 17:03:22.872] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jun2025 17:03:22.873] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jun2025 17:03:22.875] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jun2025 17:03:23.800] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Jun2025 17:03:23.802] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/Server-de-la-familia-sex/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[24Jun2025 17:03:23.802] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[24Jun2025 17:03:27.422] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jun2025 17:03:27.705] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[24Jun2025 17:03:27.707] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jun2025 17:03:28.063] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 17:03:29.169] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[24Jun2025 17:03:30.194] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[24Jun2025 17:03:30.194] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[24Jun2025 17:03:30.531] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[24Jun2025 17:03:39.843] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[24Jun2025 17:03:40.440] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[24Jun2025 17:03:40.444] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[24Jun2025 17:03:40.446] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[24Jun2025 17:03:40.447] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[24Jun2025 17:03:40.448] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[24Jun2025 17:03:40.449] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[24Jun2025 17:03:40.456] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Configuration ...
+[24Jun2025 17:03:40.460] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Updated configuration path to /workspaces/Server-de-la-familia-sex/servidor_minecraft/config/easy_npc
+[24Jun2025 17:03:40.461] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering common configuration ...
+[24Jun2025 17:03:40.473] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Render Entity Type Support Configuration
+
+ Please note that this configuration file only includes confirmed entity types.
+ If an entity type is not listed here, it doesn't mean it's automatically supported or unsupported!
+ is up to date: {minecraft:giant=true, dannys_expansion:mundane_slime=false, botania:pool_minecart=false, botania:ender_air=false, minecraft:end_crystal=false, simple_mobs:rumble=false, minecraft:experience_bottle=false, minecraft:glow_squid=true, minecraft:trader_llama=true, orcz:decaystrikecustom=false, simple_mobs:staff_usage=false, minecraft:horse=true, the_bumblezone:purple_spike_entity=false, minecraft:llama=true, minecraft:husk=true, minecraft:cave_spider=true, minecraft:enderman=true, minecraft:dolphin=true, frostiful:freezing_wind=false, minecraft:shulker_bullet=false, simple_mobs:projecttest=false, minecraft:donkey=true, minecraft:area_effect_cloud=false, minecraft:ghast=false, frostiful:packed_snowball=false, twigs:pebble=false, handcrafted:fancy_painting=false, moretotems:summoned_zombie=false, minecraft:piglin_brute=true, minecraft:creeper=true, minecraft:glow_item_frame=false, minecraft:bee=true, botania:mana_storm=false, minecraft:illusioner=true, minecraft:player=false, minecraft:wither_skull=false, minecraft:mooshroom=true, smallships:galley=false, create:stationary_contraption=false, minecraft:eye_of_ender=false, minecraft:villager=true, ad_astra:tier_1_rocket=false, botania:magic_landmine=false, minecraft:stray=true, smallships:cog=false, minecraft:falling_block=false, minecraft:drowned=true, minecraft:axolotl=true, botania:doppleganger=false, botania:flame_ring=false, botania:ender_air_bottle=false, minecraft:tnt=false, ae2:tiny_tnt_primed=false, botania:magic_missile=false, create:crafting_blueprint=false, create:contraption=false, minecraft:strider=true, smallships:brigg=false, minecraft:guardian=true, minecraft:parrot=true, minecraft:arrow=false, lootr:lootr_minecart=false, the_bumblezone:pollen_puff=false, minecraft:chest_minecart=false, minecraft:wither=true, minecraft:ender_pearl=false, create:super_glue=false, minecraft:wandering_trader=true, handcrafted:seat=false, simple_mobs:dragon_smoke=false, minecraft:wither_skeleton=true, botania:thorn_chakram=false, minecraft:iron_golem=true, botania:pixie=false, dummmmmmy:target_dummy=false, minecraft:elder_guardian=true, graveyard:skull=false, minecraft:mule=true, the_bumblezone:bee_stinger=false, the_bumblezone:thrown_stinger_spear=false, minecraft:armor_stand=false, aquamirae:pillagers_patrol=false, minecraft:vindicator=true, botania:mana_burst=false, minecraft:evoker=true, minecraft:slime=false, minecraft:leash_knot=false, botania:babylon_weapon=false, minecraft:pufferfish=true, terraform:boat=false, swampier_swamps:swamp_gas=false, minecraft:experience_orb=false, ad_astra:tier_3_rocket=false, minecraft:fox=true, botania:thrown_item=false, the_bumblezone:cosmic_crystal_entity=false, graveyard:ghouling=false, botania:player_mover=false, minecraft:silverfish=true, minecraft:endermite=true, minecraft:firework_rocket=false, minecraft:chicken=true, minecraft:zombie=true, the_bumblezone:sentry_watcher=false, minecraft:spawner_minecart=false, botania:spark=false, botania:falling_star=false, minecraft:hoglin=true, minecraft:boat=false, minecraft:trident=false, friendsandfoes:player_illusion=false, minecraft:polar_bear=true, minecraft:phantom=false, ad_astra:tier_4_rocket=false, minecraft:zombified_piglin=true, minecraft:witch=true, ad_astra:tier_2_rocket=false, minecraft:pig=true, minecraft:turtle=true, moretotems:summoned_bee=false, minecraft:sheep=true, minecraft:ender_dragon=false, minecraft:goat=true, minecraft:item_frame=false, create:carriage_contraption=false, minecraft:vex=true, minecraft:minecart=false, minecraft:item=false, minecraft:dragon_fireball=false, minecraft:cod=true, minecraft:skeleton=true, ad_astra:space_painting=false, create:seat=false, simple_mobs:staff_interact=false, minecraft:ravager=true, minecraft:squid=true, minecraft:skeleton_horse=true, minecraft:cow=true, minecraft:potion=false, ad_astra:lander=false, minecraft:salmon=true, minecraft:snow_golem=true, minecraft:shulker=true, friendsandfoes:ice_chunk=false, minecraft:hopper_minecart=false, the_bumblezone:honey_crystal_shard=false, simple_mobs:lightning_spear=false, minecraft:rabbit=true, minecraft:painting=false, minecraft:pillager=true, the_bumblezone:electric_ring_entity=false, minecraft:zoglin=true, minecraft:lightning_bolt=false, frostiful:frost_spell=false, minecraft:fishing_bobber=false, minecraft:tnt_minecart=false, simple_mobs:ground_spike=false, minecraft:command_block_minecart=false, minecraft:bat=false, the_bumblezone:dirt_pellet=false, minecraft:fireball=false, minecraft:llama_spit=false, minecraft:furnace_minecart=false, minecraft:evoker_fangs=false, minecraft:piglin=true, minecraft:snowball=false, minecraft:spectral_arrow=false, orcz:wither_strikeringcustom=false, simple_mobs:elemental_chain=false, minecraft:blaze=true, ad_astra:ice_spit=false, techreborn:nuke=false, minecraft:egg=false, minecraft:zombie_horse=true, minecraft:magma_cube=false, minecraft:small_fireball=false, frostiful:thrown_icicle=false, minecraft:spider=true, ad_astra:tier_1_rover=false, minecraft:marker=false, majruszsdifficulty:cursed_armor=false, minecraft:text_display=false, farmersdelight:rotten_tomato=false, minecraft:cat=true, armourers_workshop:mannequin=false, create:gantry_contraption=false, minecraft:tropical_fish=true, botania:corporea_spark=false, minecraft:ocelot=true, minecraft:wolf=true, minecraft:panda=true, minecraft:zombie_villager=true}
+[24Jun2025 17:03:40.479] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering server configuration ...
+[24Jun2025 17:03:40.480] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common Data Files ...
+[24Jun2025 17:03:40.488] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common data folders ...
+[24Jun2025 17:03:40.489] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Data Serializers ...
+[24Jun2025 17:03:40.673] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ActionEventSet with id 28
+[24Jun2025 17:03:40.676] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomAttributes with id 29
+[24Jun2025 17:03:40.676] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DialogDataSet with id 30
+[24Jun2025 17:03:40.677] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DisplayAttributeSet with id 31
+[24Jun2025 17:03:40.677] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer EntityAttributes with id 32
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer MerchantOffers with id 33
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ModelPose with id 34
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ObjectiveDataSet with id 35
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomPosition with id 36
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer Profession with id 37
+[24Jun2025 17:03:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer RenderDataSet with id 38
+[24Jun2025 17:03:40.679] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomRotation with id 39
+[24Jun2025 17:03:40.679] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomScale with id 40
+[24Jun2025 17:03:40.679] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SkinDataEntry with id 41
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SoundDataSet with id 42
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:UUID with id 43
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:String with id 44
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer TradingDataSet with id 45
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer UUID with id 46
+[24Jun2025 17:03:40.683] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compatibility Handler ...
+[24Jun2025 17:03:40.690] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compat Handler ...
+[24Jun2025 17:03:40.690] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Epic Fight mod with id 'epicfight' loaded: false
+[24Jun2025 17:03:40.691] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Cobblemon mod with id 'cobblemon' loaded: false
+[24Jun2025 17:03:40.692] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[24Jun2025 17:03:40.698] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Types ...
+[24Jun2025 17:03:40.721] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[24Jun2025 17:03:40.729] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[24Jun2025 17:03:40.731] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[24Jun2025 17:03:40.778] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[24Jun2025 17:03:40.794] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[24Jun2025 17:03:40.804] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[24Jun2025 17:03:40.808] [modloading-worker-0/INFO] [Easy NPC/]: Registering server network handler for Server -> Client messages.
+[24Jun2025 17:03:40.809] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[24Jun2025 17:03:41.632] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Jun2025 17:03:41.633] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Jun2025 17:03:42.472] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[24Jun2025 17:03:42.854] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Jun2025 17:03:42.911] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[24Jun2025 17:03:42.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[24Jun2025 17:03:42.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[24Jun2025 17:03:42.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[24Jun2025 17:03:42.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[24Jun2025 17:03:42.917] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[24Jun2025 17:03:42.917] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[24Jun2025 17:03:42.920] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[24Jun2025 17:03:42.923] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[24Jun2025 17:03:42.923] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[24Jun2025 17:03:42.924] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[24Jun2025 17:03:42.942] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[24Jun2025 17:03:42.942] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[24Jun2025 17:03:48.923] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.924] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[24Jun2025 17:03:48.924] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.924] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[24Jun2025 17:03:48.924] [main/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.925] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[24Jun2025 17:03:48.925] [main/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.925] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[24Jun2025 17:03:48.925] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.925] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[24Jun2025 17:03:48.925] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.926] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[24Jun2025 17:03:48.926] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.926] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[24Jun2025 17:03:48.926] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.926] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[24Jun2025 17:03:48.926] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[24Jun2025 17:03:48.927] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[24Jun2025 17:03:48.927] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:03:48.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:03:48.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:03:48.928] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[24Jun2025 17:03:48.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[24Jun2025 17:03:48.928] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[24Jun2025 17:03:48.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[24Jun2025 17:03:48.930] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[24Jun2025 17:03:48.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.934] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.934] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.934] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.935] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[24Jun2025 17:03:48.935] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[24Jun2025 17:03:48.935] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.935] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.935] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.935] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[24Jun2025 17:03:48.936] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[24Jun2025 17:03:48.938] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[24Jun2025 17:03:48.939] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[24Jun2025 17:03:48.939] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[24Jun2025 17:03:48.939] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[24Jun2025 17:03:49.050] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[24Jun2025 17:03:49.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[24Jun2025 17:03:49.743] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@2280242d with version 23
+[24Jun2025 17:03:49.746] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[24Jun2025 17:03:49.747] [main/INFO] [Easy NPC/]: Registering network messages for BOTH side ...
+[24Jun2025 17:03:49.750] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message ExportClientPresetMessage with easy_npc:preset_export_client (0)
+[24Jun2025 17:03:49.753] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message OpenMenuCallbackMessage with easy_npc:open_menu_callback_message (1)
+[24Jun2025 17:03:49.754] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message SyncDataMessage with easy_npc:sync_data (2)
+[24Jun2025 17:03:49.756] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message AddOrUpdateObjectiveMessage with easy_npc:add_objective (3)
+[24Jun2025 17:03:49.759] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeActionEventMessage with easy_npc:change_action_event (4)
+[24Jun2025 17:03:49.761] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeAdvancedTradingMessage with easy_npc:change_advanced_trading (5)
+[24Jun2025 17:03:49.763] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeBasicTradingMessage with easy_npc:change_basic_trading (6)
+[24Jun2025 17:03:49.765] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeCombatAttributeMessage with easy_npc:change_combat_attribute (7)
+[24Jun2025 17:03:49.767] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeDisplayAttributeMessage with easy_npc:change_display_attribute (8)
+[24Jun2025 17:03:49.769] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityAttributeMessage with easy_npc:change_entity_attribute (9)
+[24Jun2025 17:03:49.773] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityBaseAttributeMessage with easy_npc:change_entity_base_attribute (10)
+[24Jun2025 17:03:49.774] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEnvironmentalAttributeMessage with easy_npc:change_environmental_attribute (11)
+[24Jun2025 17:03:49.775] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeInteractionAttributeMessage with easy_npc:change_interaction_attribute (12)
+[24Jun2025 17:03:49.776] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelEquipmentVisibilityMessage with easy_npc:change_model_equipment_visibility (13)
+[24Jun2025 17:03:49.777] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelLockRotationMessage with easy_npc:change_model_lock_rotation (14)
+[24Jun2025 17:03:49.778] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPoseMessage with easy_npc:change_model_pose (15)
+[24Jun2025 17:03:49.779] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPositionMessage with easy_npc:change_model_position (16)
+[24Jun2025 17:03:49.780] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelRotationMessage with easy_npc:change_model_rotation (17)
+[24Jun2025 17:03:49.782] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelVisibilityMessage with easy_npc:change_model_visibility (18)
+[24Jun2025 17:03:49.785] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeMovementAttributeMessage with easy_npc:change_movement_attribute (19)
+[24Jun2025 17:03:49.786] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeNameMessage with easy_npc:change_name (20)
+[24Jun2025 17:03:49.789] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePoseMessage with easy_npc:change_pose (21)
+[24Jun2025 17:03:49.791] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePositionMessage with easy_npc:change_position (22)
+[24Jun2025 17:03:49.792] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeProfessionMessage with easy_npc:change_profession (23)
+[24Jun2025 17:03:49.795] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeRendererMessage with easy_npc:change_renderer (24)
+[24Jun2025 17:03:49.796] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeScaleMessage with easy_npc:change_scale (25)
+[24Jun2025 17:03:49.798] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSkinMessage with easy_npc:change_skin (26)
+[24Jun2025 17:03:49.799] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSpawnerSettingMessage with easy_npc:change_spawner_settings (27)
+[24Jun2025 17:03:49.800] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeTradingTypeMessage with easy_npc:change_trading_type (28)
+[24Jun2025 17:03:49.801] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteActionEventMessage with easy_npc:trigger_action_event (29)
+[24Jun2025 17:03:49.802] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteDialogButtonActionMessage with easy_npc:dialog_button_action (30)
+[24Jun2025 17:03:49.803] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportPresetMessage with easy_npc:export_preset (31)
+[24Jun2025 17:03:49.807] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportWorldPresetMessage with easy_npc:export_world_preset (32)
+[24Jun2025 17:03:49.808] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ImportPresetMessage with easy_npc:import_preset (33)
+[24Jun2025 17:03:49.809] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEditorMessage with easy_npc:open_action_data_editor (34)
+[24Jun2025 17:03:49.810] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEntryEditorMessage with easy_npc:open_action_data_entry_editor (35)
+[24Jun2025 17:03:49.810] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenConfigurationMessage with easy_npc:open_configuration_screen (36)
+[24Jun2025 17:03:49.811] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogButtonEditorMessage with easy_npc:open_dialog_button_editor (37)
+[24Jun2025 17:03:49.812] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogEditorMessage with easy_npc:open_dialog_editor (38)
+[24Jun2025 17:03:49.813] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenMenuMessage with easy_npc:open_menu_message (39)
+[24Jun2025 17:03:49.814] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogTextEditorMessage with easy_npc:open_dialog_text_editor (40)
+[24Jun2025 17:03:49.814] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogButtonMessage with easy_npc:remove_dialog_button (41)
+[24Jun2025 17:03:49.815] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogMessage with easy_npc:remove_dialog (42)
+[24Jun2025 17:03:49.816] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveNPCMessage with easy_npc:remove_npc (43)
+[24Jun2025 17:03:49.817] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveObjectiveMessage with easy_npc:remove_objective (44)
+[24Jun2025 17:03:49.818] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RequestDataSyncMessage with easy_npc:request_data_sync (45)
+[24Jun2025 17:03:49.819] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RespawnNPCMessage with easy_npc:respawn_npc (46)
+[24Jun2025 17:03:49.820] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogButtonMessage with easy_npc:save_dialog_button (47)
+[24Jun2025 17:03:49.821] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogMessage with easy_npc:save_dialog (48)
+[24Jun2025 17:03:49.822] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogSetMessage with easy_npc:save_dialog_set (49)
+[24Jun2025 17:03:49.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[24Jun2025 17:03:49.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[24Jun2025 17:03:49.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[24Jun2025 17:03:49.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[24Jun2025 17:03:49.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[24Jun2025 17:03:49.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jun2025 17:03:49.917] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[24Jun2025 17:03:49.917] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[24Jun2025 17:03:49.917] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[24Jun2025 17:03:49.917] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[24Jun2025 17:03:49.917] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[24Jun2025 17:03:49.918] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[24Jun2025 17:03:49.918] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[24Jun2025 17:03:49.918] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[24Jun2025 17:03:49.918] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[24Jun2025 17:03:50.142] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24Jun2025 17:03:50.143] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24Jun2025 17:03:50.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24Jun2025 17:03:50.149] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24Jun2025 17:03:50.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[24Jun2025 17:03:50.152] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24Jun2025 17:03:50.221] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[24Jun2025 17:03:50.234] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[24Jun2025 17:03:50.249] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[24Jun2025 17:03:50.250] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[24Jun2025 17:03:50.252] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[24Jun2025 17:03:50.254] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[24Jun2025 17:03:50.288] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[24Jun2025 17:03:50.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[24Jun2025 17:03:50.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[24Jun2025 17:03:50.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[24Jun2025 17:03:50.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Jun2025 17:03:50.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 8.9.8
+[24Jun2025 17:03:50.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[24Jun2025 17:03:50.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[24Jun2025 17:03:50.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[24Jun2025 17:03:50.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[24Jun2025 17:03:54.563] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jun2025 17:03:57.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
+[24Jun2025 17:03:57.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-de-la-familia-sex/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
+[24Jun2025 17:04:13.207] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[24Jun2025 17:04:13.332] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Jun2025 17:04:15.755] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[24Jun2025 17:04:15.904] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
+[24Jun2025 17:04:16.095] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
+[24Jun2025 17:04:16.234] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[24Jun2025 17:04:16.235] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[24Jun2025 17:04:16.256] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
+[24Jun2025 17:04:16.263] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[24Jun2025 17:04:18.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jun2025 17:04:18.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jun2025 17:04:18.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jun2025 17:04:18.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jun2025 17:04:18.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jun2025 17:04:18.953] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jun2025 17:04:19.077] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jun2025 17:04:19.077] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jun2025 17:04:19.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jun2025 17:04:19.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jun2025 17:04:19.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jun2025 17:04:20.994] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:20.998] [Server thread/INFO] [Easy NPC/]: Register default handler for Allay['entity.easy_npc.allay'/331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:21.001] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.002] [Server thread/INFO] [Easy NPC/]: Register default handler for Cat['entity.easy_npc.cat'/332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant BLACK ...
+[24Jun2025 17:04:21.004] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.004] [Server thread/INFO] [Easy NPC/]: Register default handler for Chicken['entity.easy_npc.chicken'/333, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[24Jun2025 17:04:21.006] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.007] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.drowned'/334, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DROWNED ...
+[24Jun2025 17:04:21.008] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.009] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.evoker'/335, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant EVOKER_CROSSED_ARMS ...
+[24Jun2025 17:04:21.010] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.011] [Server thread/INFO] [Easy NPC/]: Register default handler for Fairy['entity.easy_npc.fairy'/336, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant GREEN ...
+[24Jun2025 17:04:21.012] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.013] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.horse'/337, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[24Jun2025 17:04:21.014] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.015] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/338, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[24Jun2025 17:04:21.017] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.018] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/339, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[24Jun2025 17:04:21.021] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.022] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/340, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[24Jun2025 17:04:21.024] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.025] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.illusioner'/341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ILLUSIONER_CROSSED_ARMS ...
+[24Jun2025 17:04:21.027] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.029] [Server thread/INFO] [Easy NPC/]: Register default handler for IronGolem['entity.easy_npc.iron_golem'/342, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant IRON_GOLEM ...
+[24Jun2025 17:04:21.030] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.031] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc'/343, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:21.047] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.056] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc_warrior'/344, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WARRIOR ...
+[24Jun2025 17:04:21.067] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.076] [Server thread/INFO] [Easy NPC/]: Register default handler for Pig['entity.easy_npc.pig'/345, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:21.078] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.083] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin'/346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN ...
+[24Jun2025 17:04:21.084] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.085] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_brute'/347, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN_BRUTE ...
+[24Jun2025 17:04:21.087] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for PiglinRaw.
+[24Jun2025 17:04:21.088] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[24Jun2025 17:04:21.088] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for PiglinRaw.
+[24Jun2025 17:04:21.088] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[24Jun2025 17:04:21.088] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for PiglinRaw.
+[24Jun2025 17:04:21.089] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[24Jun2025 17:04:21.089] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for PiglinRaw.
+[24Jun2025 17:04:21.089] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[24Jun2025 17:04:21.090] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for PiglinRaw.
+[24Jun2025 17:04:21.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[24Jun2025 17:04:21.091] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for PiglinRaw.
+[24Jun2025 17:04:21.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[24Jun2025 17:04:21.091] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for PiglinRaw.
+[24Jun2025 17:04:21.094] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[24Jun2025 17:04:21.094] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for PiglinRaw.
+[24Jun2025 17:04:21.095] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[24Jun2025 17:04:21.095] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for PiglinRaw.
+[24Jun2025 17:04:21.095] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[24Jun2025 17:04:21.095] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for PiglinRaw.
+[24Jun2025 17:04:21.096] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[24Jun2025 17:04:21.096] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for PiglinRaw.
+[24Jun2025 17:04:21.096] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.096] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.097] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for PiglinRaw.
+[24Jun2025 17:04:21.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[24Jun2025 17:04:21.098] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for PiglinRaw['entity.easy_npc.piglin_raw'/348, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.268] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.272] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_zombified'/349, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIFIED_PIGLIN ...
+[24Jun2025 17:04:21.273] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.275] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.pillager'/350, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PILLAGER ...
+[24Jun2025 17:04:21.276] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.277] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[24Jun2025 17:04:21.278] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.279] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.skeleton_horse'/352, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[24Jun2025 17:04:21.280] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for SkeletonRaw.
+[24Jun2025 17:04:21.281] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[24Jun2025 17:04:21.281] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for SkeletonRaw.
+[24Jun2025 17:04:21.282] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[24Jun2025 17:04:21.282] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for SkeletonRaw.
+[24Jun2025 17:04:21.283] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[24Jun2025 17:04:21.284] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for SkeletonRaw.
+[24Jun2025 17:04:21.285] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[24Jun2025 17:04:21.286] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for SkeletonRaw.
+[24Jun2025 17:04:21.287] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[24Jun2025 17:04:21.287] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for SkeletonRaw.
+[24Jun2025 17:04:21.288] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[24Jun2025 17:04:21.289] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for SkeletonRaw.
+[24Jun2025 17:04:21.290] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[24Jun2025 17:04:21.291] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for SkeletonRaw.
+[24Jun2025 17:04:21.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[24Jun2025 17:04:21.293] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for SkeletonRaw.
+[24Jun2025 17:04:21.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[24Jun2025 17:04:21.294] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for SkeletonRaw.
+[24Jun2025 17:04:21.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[24Jun2025 17:04:21.295] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for SkeletonRaw.
+[24Jun2025 17:04:21.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.297] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for SkeletonRaw.
+[24Jun2025 17:04:21.298] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[24Jun2025 17:04:21.299] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for SkeletonRaw['entity.easy_npc.skeleton_raw'/353, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.304] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.305] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.stray'/354, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STRAY ...
+[24Jun2025 17:04:21.307] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.307] [Server thread/INFO] [Easy NPC/]: Register default handler for Villager['Default (None)'/355, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:21.308] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.309] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.vindicator'/356, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant VINDICATOR_CROSSED_ARMS ...
+[24Jun2025 17:04:21.310] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.311] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/357, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[24Jun2025 17:04:21.312] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.313] [Server thread/INFO] [Easy NPC/]: Register default handler for Wolf['entity.easy_npc.wolf'/358, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:21.315] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.315] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.zombie'/359, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[24Jun2025 17:04:21.316] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.317] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.zombie_horse'/360, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[24Jun2025 17:04:21.318] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for ZombieRaw.
+[24Jun2025 17:04:21.319] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[24Jun2025 17:04:21.319] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for ZombieRaw.
+[24Jun2025 17:04:21.320] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[24Jun2025 17:04:21.321] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for ZombieRaw.
+[24Jun2025 17:04:21.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[24Jun2025 17:04:21.326] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for ZombieRaw.
+[24Jun2025 17:04:21.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[24Jun2025 17:04:21.327] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for ZombieRaw.
+[24Jun2025 17:04:21.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[24Jun2025 17:04:21.329] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for ZombieRaw.
+[24Jun2025 17:04:21.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[24Jun2025 17:04:21.332] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for ZombieRaw.
+[24Jun2025 17:04:21.333] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[24Jun2025 17:04:21.335] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for ZombieRaw.
+[24Jun2025 17:04:21.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[24Jun2025 17:04:21.336] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for ZombieRaw.
+[24Jun2025 17:04:21.336] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[24Jun2025 17:04:21.337] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for ZombieRaw.
+[24Jun2025 17:04:21.337] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[24Jun2025 17:04:21.339] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for ZombieRaw.
+[24Jun2025 17:04:21.339] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.341] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[24Jun2025 17:04:21.342] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for ZombieRaw.
+[24Jun2025 17:04:21.343] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[24Jun2025 17:04:21.344] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieRaw['entity.easy_npc.zombie_raw'/361, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.355] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[24Jun2025 17:04:21.358] [Server thread/INFO] [Easy NPC/]: Register default handler for ZombieVillager['Default (None)'/362, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[24Jun2025 17:04:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jun2025 17:04:29.927] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.929] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.930] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.931] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.932] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.932] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.933] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.933] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.933] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:29.934] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:30.221] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.015] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.022] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.028] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.041] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.046] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.529] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:33.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 17:04:34.184] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[24Jun2025 17:04:34.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[24Jun2025 17:04:34.915] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9731 ms
+[24Jun2025 17:04:34.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.820s)! For help, type "help"
+[24Jun2025 17:04:35.136] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jun2025 17:04:35.141] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server is starting Events ...
+[24Jun2025 17:04:35.142] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server data folders ...
+[24Jun2025 17:04:35.142] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Pose data folders ...
+[24Jun2025 17:04:35.143] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom pose data ...
+[24Jun2025 17:04:35.149] [Server thread/WARN] [Easy NPC/]: Skin model pose file /workspaces/Server-de-la-familia-sex/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json already exists, skipping copy!
+[24Jun2025 17:04:35.158] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom poses from /workspaces/Server-de-la-familia-sex/servidor_minecraft/config/easy_npc/pose ...
+[24Jun2025 17:04:35.159] [Server thread/INFO] [Easy NPC/]: Found custom pose file /workspaces/Server-de-la-familia-sex/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json ...
+[24Jun2025 17:04:35.165] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/crouching with Animation{name='Crouching', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -4.2, 0.0], rotation=[-7.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -3.2, 0.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 4.0], rotation=[-25.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 3.0], rotation=[-10.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[24Jun2025 17:04:35.166] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/standing with Animation{name='Standing', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[24Jun2025 17:04:35.166] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/sitting with Animation{name='Sitting', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -10.5, 0.0], rotation=[0.0, 0.0, -2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -10.5, 0.0], rotation=null, scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, -10.5, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[24Jun2025 17:04:35.166] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/chilling with Animation{name='Chilling', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.5, 2.0], rotation=[-2.5, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.25, 3.0], rotation=[-20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -12.5, 2.0], rotation=[17.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.5, 2.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, -5.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.75], rotation=[-90.0, -10.5, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[24Jun2025 17:04:35.167] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/rest with Animation{name='Rest', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.0, 0.0], rotation=[5.0, 0.0, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.0, 0.0], rotation=[0.0, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[-1.0, -11.0, 0.0], rotation=[-75.0, -30.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.0, 0.0], rotation=[-52.5, -5.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[-3.0, -2.0, -2.0], rotation=[-32.5, -20.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[6.75, -10.0, 0.0], rotation=[-90.0, 40.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[24Jun2025 17:04:35.168] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Backup data folders ...
+[24Jun2025 17:04:35.170] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-06-24 at /workspaces/Server-de-la-familia-sex/servidor_minecraft/easy_npc/backup ...
+[24Jun2025 17:04:35.184] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[24Jun2025 17:05:25.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24Jun2025 17:05:25.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:53658] logged in with entity id 706 at (-822.3000000119209, 182.0625, 150.35982670380295)
+[24Jun2025 17:05:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[24Jun2025 17:05:29.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[24Jun2025 17:05:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HEISENBERGXD> HEISENBERGXD
+[24Jun2025 17:06:36.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/772, l='ServerLevel[world]', x=-827.34, y=207.00, z=158.32] died: Gearling hit the ground too hard
+[24Jun2025 17:06:38.521] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 17:06:38.564] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 17:07:05.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/740, l='ServerLevel[world]', x=-829.18, y=173.06, z=165.00] died: Gearling fell from a high place
+[24Jun2025 17:07:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 17:09:00.203] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 17:09:00.221] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 17:09:38.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:52251] logged in with entity id 1823 at (-297.8629582357325, 64.0, 1203.7093258842074)
+[24Jun2025 17:09:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[24Jun2025 17:09:41.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CaveEnderman['Cave Enderman'/1930, l='ServerLevel[world]', x=-223.24, y=36.00, z=1135.59]
+[24Jun2025 17:09:41.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityTarantulaHawk['Tarantula Hawk'/1955, l='ServerLevel[world]', x=-201.47, y=78.46, z=1230.99]
+[24Jun2025 17:09:49.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
+[24Jun2025 17:10:04.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> aa
+[24Jun2025 17:10:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> enfermo
+[24Jun2025 17:11:01.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:51819] logged in with entity id 2795 at (-824.5124999880791, 190.0, 161.30003447475173)
+[24Jun2025 17:11:01.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[24Jun2025 17:11:34.955] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[24Jun2025 17:11:34.973] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[24Jun2025 17:11:49.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD was slain by Skeleton
