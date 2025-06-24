@@ -353,3 +353,26 @@
 [24Jun2025 02:43:49.947] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [24Jun2025 02:43:49.952] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [24Jun2025 02:44:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Gearling
+[24Jun2025 02:46:52.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:54950] logged in with entity id 144493 at (-0.5, 86.0, -6.5)
+[24Jun2025 02:46:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[24Jun2025 02:47:59.801] [Server thread/WARN] [tombstone/]: The death event of the player Kingg9 was canceled by another mod
+[24Jun2025 02:47:59.803] [Server thread/INFO] [tombstone/]: The player Kingg9 has successfully been saved
+[24Jun2025 02:48:33.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[24Jun2025 02:48:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[24Jun2025 02:48:40.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51128] logged in with entity id 145859 at (-257.38782844319076, 65.0, 1165.4713660636967)
+[24Jun2025 02:48:40.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[24Jun2025 02:48:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 was shot by Skeleton
+[24Jun2025 02:48:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [Your First Grave]
+[24Jun2025 02:49:13.366] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[24Jun2025 02:49:13.406] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[24Jun2025 02:49:14.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[24Jun2025 02:49:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[24Jun2025 02:49:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[24Jun2025 02:50:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[24Jun2025 02:50:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has reached the goal [Here They Come]
+[24Jun2025 02:51:09.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:51232] logged in with entity id 147741 at (-256.3778583539459, 65.0, 1164.8031132204599)
+[24Jun2025 02:51:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[24Jun2025 02:51:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[24Jun2025 02:52:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[24Jun2025 02:53:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Kingg9 to JAGlitsh]
+[24Jun2025 02:54:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 has made the advancement [DJ! DJ!]
