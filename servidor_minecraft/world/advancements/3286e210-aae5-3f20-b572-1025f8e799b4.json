@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-24 02:56:33 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-24 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-24 03:53:49 +0000"
     },
     "done": true
   },
@@ -309,7 +321,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-06-24 03:46:49 +0000",
-      "minecraft:zombie": "2025-06-24 03:43:52 +0000"
+      "minecraft:zombie": "2025-06-24 03:43:52 +0000",
+      "minecraft:drowned": "2025-06-24 04:10:00 +0000"
     },
     "done": false
   },
@@ -334,6 +347,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-24 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
     },
     "done": true
   },
@@ -370,6 +389,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-24 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
     },
     "done": true
   },
@@ -551,6 +576,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-24 02:55:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
     },
     "done": true
   },
@@ -1059,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-24 03:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-24 02:59:54 +0000"
@@ -1216,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-24 03:40:33 +0000"
@@ -1267,6 +1310,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-24 03:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
     },
     "done": true
   },
@@ -1576,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-24 04:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-24 03:08:36 +0000"
@@ -1720,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-24 02:59:54 +0000"
@@ -1831,6 +1892,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-24 03:02:44 +0000",
       "apple": "2025-06-24 02:57:44 +0000",
+      "bread": "2025-06-24 04:07:14 +0000",
       "rotten_flesh": "2025-06-24 03:20:15 +0000"
     },
     "done": false
@@ -1856,6 +1918,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-24 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-24 04:10:16 +0000"
     },
     "done": true
   },
