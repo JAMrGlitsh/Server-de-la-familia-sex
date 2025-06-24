@@ -1125,11 +1125,14 @@
     "criteria": {
       "cooked_porkchop": "2025-06-23 03:43:00 +0000",
       "cooked_mutton": "2025-06-23 03:37:18 +0000",
+      "cooked_beef": "2025-06-24 20:00:40 +0000",
       "porkchop": "2025-06-23 03:41:00 +0000",
+      "apple": "2025-06-24 20:15:19 +0000",
       "bread": "2025-06-23 03:55:43 +0000",
       "golden_apple": "2025-06-23 05:08:18 +0000",
       "melon_slice": "2025-06-23 03:44:09 +0000",
       "golden_carrot": "2025-06-23 05:02:22 +0000",
+      "cooked_chicken": "2025-06-24 20:03:44 +0000",
       "carrot": "2025-06-23 03:39:33 +0000"
     },
     "done": false
@@ -4212,6 +4215,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 20:10:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-24 19:49:38 +0000"
@@ -4227,6 +4236,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-06-24 19:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-24 20:00:57 +0000"
     },
     "done": true
   },
