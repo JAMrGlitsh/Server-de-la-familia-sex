@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-24 04:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-24 02:52:58 +0000"
@@ -444,6 +450,12 @@
     "criteria": {
       "has_wood": "2025-06-24 02:55:40 +0000",
       "has_the_recipe": "2025-06-24 02:55:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-06-24 04:12:54 +0000"
     },
     "done": true
   },
@@ -1193,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-24 04:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-24 02:59:54 +0000"
@@ -1460,6 +1478,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-24 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-24 04:12:26 +0000"
     },
     "done": true
   },

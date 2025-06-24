@@ -2629,7 +2629,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2025-06-23 23:01:44 +0000"
+      "minecraft:pig": "2025-06-23 23:01:44 +0000",
+      "minecraft:sheep": "2025-06-24 04:12:21 +0000",
+      "minecraft:cow": "2025-06-24 04:11:58 +0000"
     },
     "done": false
   },
@@ -3581,6 +3583,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-24 04:20:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-24 03:53:24 +0000"
@@ -3608,6 +3616,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-24 03:53:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-24 04:14:50 +0000"
     },
     "done": true
   },
@@ -3722,6 +3736,12 @@
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2025-06-24 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-24 04:13:50 +0000"
     },
     "done": true
   },
