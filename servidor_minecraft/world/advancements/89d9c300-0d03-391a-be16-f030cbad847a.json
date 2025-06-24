@@ -3305,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 03:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-24 02:32:57 +0000"
@@ -3347,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 03:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-24 02:26:01 +0000"
@@ -3362,6 +3374,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-06-24 02:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 03:38:24 +0000"
     },
     "done": true
   },
@@ -3458,6 +3476,12 @@
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-06-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-06-24 03:36:50 +0000"
     },
     "done": true
   },
@@ -3596,6 +3620,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-24 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-06-24 03:33:15 +0000"
     },
     "done": true
   },

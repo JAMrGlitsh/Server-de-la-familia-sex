@@ -3614,6 +3614,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-06-24 03:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-24 03:04:38 +0000"

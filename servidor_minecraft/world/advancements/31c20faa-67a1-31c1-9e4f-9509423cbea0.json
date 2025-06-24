@@ -1053,6 +1053,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 03:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-24 03:11:43 +0000"
@@ -1069,6 +1075,12 @@
     "criteria": {
       "has_wood": "2025-06-24 02:59:28 +0000",
       "has_the_recipe": "2025-06-24 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 03:32:10 +0000"
     },
     "done": true
   },
@@ -1366,6 +1378,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 03:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs": {
     "criteria": {
       "has_cut_copper": "2025-06-24 03:23:28 +0000"
@@ -1435,6 +1453,12 @@
   "iammusicplayer:recipes/misc/manual": {
     "criteria": {
       "has_book": "2025-06-24 03:08:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 03:37:05 +0000"
     },
     "done": true
   },
@@ -1715,6 +1739,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-06-24 03:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-06-24 02:59:51 +0000"
@@ -1724,6 +1754,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-24 03:11:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-06-24 03:37:05 +0000"
     },
     "done": true
   },
