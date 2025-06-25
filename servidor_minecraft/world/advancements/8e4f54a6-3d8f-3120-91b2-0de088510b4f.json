@@ -3706,6 +3706,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-25 02:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-25 02:24:29 +0000"
@@ -3826,6 +3832,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-25 02:37:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-06-25 02:24:35 +0000"
@@ -3943,6 +3955,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-06-25 02:26:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-06-25 02:30:28 +0000"
     },
     "done": true
   },
