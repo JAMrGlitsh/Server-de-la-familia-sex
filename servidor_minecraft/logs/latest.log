@@ -550,3 +550,17 @@
 [25Jun2025 04:13:00.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
 [25Jun2025 04:13:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
 [25Jun2025 04:20:00.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/330458, l='ServerLevel[world]', x=-479.52, y=96.41, z=1827.69] died, message: 'Villager was slain by Zombie'
+[25Jun2025 04:24:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to CHUCHIXD]
+[25Jun2025 04:25:23.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[25Jun2025 04:25:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to CHUCHIXD]
+[25Jun2025 04:25:51.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[25Jun2025 04:25:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[25Jun2025 04:25:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[25Jun2025 04:26:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[25Jun2025 04:26:34.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Where Is The Stone Pen?]
+[25Jun2025 04:27:28.051] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[25Jun2025 04:27:28.054] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[25Jun2025 04:28:57.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[25Jun2025 04:28:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[25Jun2025 04:28:58.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[25Jun2025 04:28:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game

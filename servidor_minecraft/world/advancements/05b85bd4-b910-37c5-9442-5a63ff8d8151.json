@@ -36,6 +36,7 @@
       "minecraft:desert": "2025-06-23 03:58:44 +0000",
       "minecraft:jungle": "2025-06-25 02:30:56 +0000",
       "minecraft:warm_ocean": "2025-06-25 03:27:28 +0000",
+      "minecraft:savanna": "2025-06-25 04:24:47 +0000",
       "minecraft:plains": "2025-06-23 22:42:25 +0000"
     },
     "done": false
@@ -4650,6 +4651,12 @@
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-06-24 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-25 04:26:34 +0000"
     },
     "done": true
   },
