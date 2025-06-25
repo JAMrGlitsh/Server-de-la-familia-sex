@@ -1305,6 +1305,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-06-25 00:51:56 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-06-24 23:15:22 +0000"
@@ -1434,6 +1440,12 @@
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-06-24 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-25 01:02:44 +0000"
     },
     "done": true
   },
@@ -2559,6 +2571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 00:23:53 +0000"
@@ -2603,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:51:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-24 23:53:13 +0000"
@@ -2642,6 +2666,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-24 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:51:56 +0000"
     },
     "done": true
   },

@@ -49,3 +49,12 @@
 [25Jun2025 00:45:06.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e4de6f0[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:55932) lost connection: Disconnected
 [25Jun2025 00:45:21.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:55984] logged in with entity id 209090 at (-2197.35813957962, 67.0, 1752.527100884385)
 [25Jun2025 00:45:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[25Jun2025 00:49:49.874] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -2639 -56 -3950 in 1s
+[25Jun2025 00:52:44.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Timed out
+[25Jun2025 00:52:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[25Jun2025 01:01:23.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[25Jun2025 01:01:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[25Jun2025 01:04:01.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:56033] logged in with entity id 214391 at (-255.47425064121768, 65.0, 1169.4401111900436)
+[25Jun2025 01:04:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[25Jun2025 01:08:32.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIxXD lost connection: Disconnected
+[25Jun2025 01:08:32.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD left the game
