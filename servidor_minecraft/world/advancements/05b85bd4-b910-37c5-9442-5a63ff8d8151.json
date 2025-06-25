@@ -30,10 +30,12 @@
       "minecraft:beach": "2025-06-23 22:41:26 +0000",
       "minecraft:sparse_jungle": "2025-06-23 22:42:47 +0000",
       "minecraft:river": "2025-06-23 03:58:13 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-25 03:26:46 +0000",
       "minecraft:dripstone_caves": "2025-06-23 03:42:58 +0000",
       "minecraft:forest": "2025-06-23 22:34:34 +0000",
       "minecraft:desert": "2025-06-23 03:58:44 +0000",
       "minecraft:jungle": "2025-06-25 02:30:56 +0000",
+      "minecraft:warm_ocean": "2025-06-25 03:27:28 +0000",
       "minecraft:plains": "2025-06-23 22:42:25 +0000"
     },
     "done": false
@@ -4364,6 +4366,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-24 21:03:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-06-25 03:22:32 +0000"
     },
     "done": true
   },
