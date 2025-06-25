@@ -547,3 +547,6 @@
 [25Jun2025 04:10:31.567] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [25Jun2025 04:10:31.569] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [25Jun2025 04:10:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell off a ladder
+[25Jun2025 04:13:00.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[25Jun2025 04:13:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[25Jun2025 04:20:00.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/330458, l='ServerLevel[world]', x=-479.52, y=96.41, z=1827.69] died, message: 'Villager was slain by Zombie'
