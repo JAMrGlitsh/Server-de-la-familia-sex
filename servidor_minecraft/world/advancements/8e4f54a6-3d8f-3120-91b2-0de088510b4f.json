@@ -619,7 +619,9 @@
       "pumpkin_pie": "2025-06-23 23:14:23 +0000",
       "mutton": "2025-06-24 00:24:15 +0000",
       "bread": "2025-06-23 23:04:44 +0000",
+      "golden_apple": "2025-06-25 01:45:10 +0000",
       "rotten_flesh": "2025-06-23 22:35:28 +0000",
+      "glow_berries": "2025-06-25 01:35:15 +0000",
       "salmon": "2025-06-24 01:13:24 +0000",
       "golden_carrot": "2025-06-23 22:56:29 +0000",
       "cooked_rabbit": "2025-06-24 02:30:22 +0000",
@@ -3535,9 +3537,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-25 01:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-25 01:39:26 +0000"
     },
     "done": true
   },
@@ -3571,6 +3591,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-25 01:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-25 01:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-25 01:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-25 01:13:22 +0000"
@@ -3589,9 +3633,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:41:29 +0000"
     },
     "done": true
   },
@@ -3625,6 +3687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-25 01:35:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-06-25 01:15:15 +0000"
@@ -3634,6 +3702,12 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-06-25 01:42:40 +0000"
     },
     "done": true
   },
