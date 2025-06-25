@@ -36,3 +36,11 @@
 [25Jun2025 00:15:54.060] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12862505[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:54910) lost connection: Disconnected
 [25Jun2025 00:16:00.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:55034] logged in with entity id 196534 at (-2179.2467117318693, 63.0, 1752.699999988079)
 [25Jun2025 00:16:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[25Jun2025 00:23:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [Stone Age]
+[25Jun2025 00:30:25.207] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:30:25.209] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[25Jun2025 00:35:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [The Parrots and the Bats]
+[25Jun2025 00:35:57.462] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:35:57.464] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[25Jun2025 00:36:55.610] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:36:55.613] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved

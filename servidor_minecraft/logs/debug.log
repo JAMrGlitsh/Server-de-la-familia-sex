@@ -7800,3 +7800,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jun2025 00:16:00.266] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [25Jun2025 00:16:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [25Jun2025 00:16:00.924] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750810560670
+[25Jun2025 00:20:11.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:20:11.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:23:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [Stone Age]
+[25Jun2025 00:25:11.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:25:11.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:26:19.507] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750811179462
+[25Jun2025 00:26:45.737] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750811205728
+[25Jun2025 00:30:11.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:30:11.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:30:25.207] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:30:25.209] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[25Jun2025 00:35:11.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:35:11.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:35:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD has made the advancement [The Parrots and the Bats]
+[25Jun2025 00:35:57.462] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:35:57.464] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
+[25Jun2025 00:36:55.610] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIxXD was canceled by another mod
+[25Jun2025 00:36:55.613] [Server thread/INFO] [tombstone/]: The player CHUCHIxXD has successfully been saved
