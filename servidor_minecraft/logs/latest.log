@@ -133,3 +133,39 @@
 [25Jun2025 01:47:39.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/230320, l='ServerLevel[world]', x=-844.33, y=146.00, z=150.32] died: Gearling fell from a high place
 [25Jun2025 01:47:50.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/230032, l='ServerLevel[world]', x=-828.47, y=173.06, z=165.68] died: Gearling fell from a high place
 [25Jun2025 01:48:06.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/229959, l='ServerLevel[world]', x=-827.60, y=173.06, z=164.58] died: Gearling fell from a high place
+[25Jun2025 01:53:00.367] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 01:53:00.374] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 01:53:32.517] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[25Jun2025 01:53:32.530] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[25Jun2025 01:54:32.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Strong or Careful]
+[25Jun2025 01:54:32.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Gearling
+[25Jun2025 01:55:13.978] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 01:55:13.984] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 01:55:15.481] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 01:55:15.499] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 01:55:35.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was blown up by Jungle Creeper
+[25Jun2025 01:57:44.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/236398, l='ServerLevel[world]', x=-926.56, y=242.02, z=216.82] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 01:57:45.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/236485, l='ServerLevel[world]', x=-925.28, y=241.00, z=215.30] died: Gearling was slain by Misterchuwa
+[25Jun2025 01:57:56.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/236473, l='ServerLevel[world]', x=-927.95, y=241.00, z=203.29] died: Gearling was shot by Misterchuwa
+[25Jun2025 01:58:10.571] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 01:58:10.583] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 01:58:26.621] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 01:58:26.639] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 01:58:32.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Zombie
+[25Jun2025 01:59:13.133] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 01:59:13.140] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 01:59:26.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was pummeled by Capuchin Monkey
+[25Jun2025 02:00:38.782] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[25Jun2025 02:00:38.784] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[25Jun2025 02:00:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD fell from a high place
+[25Jun2025 02:02:44.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[25Jun2025 02:02:44.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[25Jun2025 02:02:53.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:56426] logged in with entity id 242481 at (-2195.9982755985243, 67.0, 1746.028390855208)
+[25Jun2025 02:02:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[25Jun2025 02:03:34.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Seedy Place]
+[25Jun2025 02:06:54.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[25Jun2025 02:08:31.510] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[25Jun2025 02:08:31.527] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[25Jun2025 02:08:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[25Jun2025 02:09:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD was slain by Zombie
+[25Jun2025 02:10:21.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Ender Distancing]

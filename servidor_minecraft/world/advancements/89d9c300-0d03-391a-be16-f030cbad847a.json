@@ -1129,6 +1129,7 @@
       "cooked_beef": "2025-06-24 20:00:40 +0000",
       "porkchop": "2025-06-23 03:41:00 +0000",
       "apple": "2025-06-24 20:15:19 +0000",
+      "pumpkin_pie": "2025-06-25 01:58:21 +0000",
       "bread": "2025-06-23 03:55:43 +0000",
       "golden_apple": "2025-06-23 05:08:18 +0000",
       "melon_slice": "2025-06-23 03:44:09 +0000",
@@ -4484,9 +4485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 02:03:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-25 01:45:14 +0000"
     },
     "done": true
   },
@@ -4503,6 +4516,24 @@
       "minecraft:soul_sand_valley": "2025-06-24 23:23:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-25 01:59:50 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
@@ -4555,6 +4586,12 @@
   "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-24 22:52:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-25 01:50:16 +0000"
     },
     "done": true
   },
@@ -4612,15 +4649,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-25 01:50:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-06-25 02:04:45 +0000"
     },
     "done": true
   },
@@ -4654,9 +4709,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-25 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 02:04:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-06-24 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
     },
     "done": true
   },
@@ -4675,6 +4754,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-06-25 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-25 02:03:59 +0000"
     },
     "done": true
   },
@@ -4705,6 +4790,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-24 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-25 01:59:50 +0000"
     },
     "done": true
   },
@@ -4753,6 +4844,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-25 01:45:12 +0000"
     },
     "done": true
   },
@@ -4816,6 +4913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
@@ -4828,9 +4931,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 02:04:04 +0000"
     },
     "done": true
   },
@@ -4849,6 +4964,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-25 02:04:45 +0000"
     },
     "done": true
   },
@@ -4930,6 +5051,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-25 01:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-25 01:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-24 23:44:50 +0000"
@@ -4939,6 +5072,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-06-24 22:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 02:03:47 +0000"
     },
     "done": true
   },
@@ -4963,6 +5102,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-24 23:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 02:04:04 +0000"
     },
     "done": true
   },
@@ -5023,6 +5168,18 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-24 22:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-25 01:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 02:04:04 +0000"
     },
     "done": true
   },
