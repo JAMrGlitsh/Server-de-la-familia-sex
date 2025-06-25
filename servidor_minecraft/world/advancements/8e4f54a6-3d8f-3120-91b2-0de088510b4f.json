@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-06-25 03:58:44 +0000",
       "minecraft:badlands": "2025-06-23 22:04:30 +0000",
       "minecraft:savanna_plateau": "2025-06-24 00:56:35 +0000",
       "minecraft:beach": "2025-06-23 22:41:13 +0000",
@@ -34,6 +35,7 @@
       "minecraft:river": "2025-06-23 22:13:24 +0000",
       "minecraft:forest": "2025-06-23 22:34:26 +0000",
       "minecraft:desert": "2025-06-23 22:13:16 +0000",
+      "minecraft:jungle": "2025-06-25 03:36:44 +0000",
       "minecraft:savanna": "2025-06-24 00:53:01 +0000",
       "minecraft:plains": "2025-06-23 22:42:09 +0000"
     },
@@ -525,6 +527,7 @@
       "minecraft:ravager": "2025-06-25 01:52:27 +0000",
       "minecraft:spider": "2025-06-23 22:37:23 +0000",
       "minecraft:creeper": "2025-06-23 23:12:21 +0000",
+      "minecraft:phantom": "2025-06-25 03:36:23 +0000",
       "minecraft:witch": "2025-06-23 23:14:03 +0000",
       "minecraft:husk": "2025-06-23 22:15:21 +0000",
       "minecraft:enderman": "2025-06-23 23:13:50 +0000",
@@ -624,6 +627,7 @@
       "rotten_flesh": "2025-06-23 22:35:28 +0000",
       "glow_berries": "2025-06-25 01:35:15 +0000",
       "salmon": "2025-06-24 01:13:24 +0000",
+      "melon_slice": "2025-06-25 03:51:06 +0000",
       "golden_carrot": "2025-06-23 22:56:29 +0000",
       "cooked_rabbit": "2025-06-24 02:30:22 +0000",
       "cooked_salmon": "2025-06-23 23:58:43 +0000"
@@ -4009,6 +4013,102 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-25 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-25 03:36:23 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-25 03:36:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-25 03:37:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-25 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-06-25 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-25 03:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-25 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-25 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-25 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-06-25 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-25 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 03:57:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-25 04:03:38 +0000"
     },
     "done": true
   },

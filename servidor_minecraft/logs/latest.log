@@ -467,3 +467,83 @@
 [25Jun2025 03:31:11.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
 [25Jun2025 03:31:11.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
 [25Jun2025 03:31:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to elpepe]
+[25Jun2025 03:32:28.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:50794] logged in with entity id 302476 at (705.0772755269186, 111.02442408821369, 1494.2756992748884)
+[25Jun2025 03:32:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[25Jun2025 03:32:36.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[25Jun2025 03:32:36.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[25Jun2025 03:33:49.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:50820] logged in with entity id 303120 at (705.0772755269186, 109.0, 1494.2756992748884)
+[25Jun2025 03:33:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[25Jun2025 03:33:55.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[25Jun2025 03:33:58.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[25Jun2025 03:33:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[25Jun2025 03:35:23.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:50873] logged in with entity id 303884 at (-2195.925000011921, 67.0, 1752.856290024094)
+[25Jun2025 03:35:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[25Jun2025 03:35:36.738] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[25Jun2025 03:35:36.755] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[25Jun2025 03:35:46.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Alex's Caves]
+[25Jun2025 03:36:00.601] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[25Jun2025 03:36:00.609] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[25Jun2025 03:36:43.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Lighthouse]
+[25Jun2025 03:37:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [The Lighthouse]
+[25Jun2025 03:37:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Your First Receptacle]
+[25Jun2025 03:40:18.351] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 03:40:18.353] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 03:41:29.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[25Jun2025 03:41:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[25Jun2025 03:41:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[25Jun2025 03:41:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2151.500000, 66.500000, 1739.500000]
+[25Jun2025 03:42:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [In Memoriam]
+[25Jun2025 03:42:08.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Best Friends Forever]
+[25Jun2025 03:42:08.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Bound Forever]
+[25Jun2025 03:42:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Let The Magic Happen]
+[25Jun2025 03:42:50.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved wrongly!
+[25Jun2025 03:44:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Was that a spotlight? On me?]
+[25Jun2025 03:45:50.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Chompy]
+[25Jun2025 03:46:07.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[25Jun2025 03:46:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Funeral Theft]
+[25Jun2025 03:47:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 03:48:39.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[25Jun2025 03:53:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[25Jun2025 03:53:43.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[25Jun2025 03:53:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[25Jun2025 03:53:45.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[25Jun2025 03:53:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[25Jun2025 03:54:56.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:50973] logged in with entity id 315238 at (656.4724536178604, 88.00133597911214, 1456.2811342577525)
+[25Jun2025 03:54:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[25Jun2025 03:55:04.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[25Jun2025 03:55:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[25Jun2025 03:56:02.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:57079] logged in with entity id 315850 at (660.2141980860488, 92.17675927506424, 1459.4153969267554)
+[25Jun2025 03:56:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[25Jun2025 03:56:41.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:51036] logged in with entity id 316452 at (656.4724536178604, 88.0, 1456.2811342577525)
+[25Jun2025 03:56:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[25Jun2025 03:56:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[25Jun2025 03:56:49.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[25Jun2025 03:56:49.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[25Jun2025 03:57:31.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Bone Crusher]
+[25Jun2025 03:57:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -263.500000, 111.500000, 1416.500000]
+[25Jun2025 03:58:21.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[25Jun2025 03:58:46.517] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 03:58:46.519] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 03:59:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[25Jun2025 03:59:39.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b997c4[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:57122) lost connection: Disconnected
+[25Jun2025 03:59:57.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:57126] logged in with entity id 318467 at (684.6620564325787, 96.5912296175886, 1421.2629575292494)
+[25Jun2025 03:59:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[25Jun2025 03:59:59.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[25Jun2025 04:00:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to elpepe]
+[25Jun2025 04:00:27.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[25Jun2025 04:00:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[25Jun2025 04:02:04.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@182cbf63[id=<null>,name=HEISENBERGXD,properties={},legacy=false] (/100.122.200.99:57192) lost connection: Disconnected
+[25Jun2025 04:02:15.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:57194] logged in with entity id 319819 at (684.3000000119209, 95.9375, 1421.699999988079)
+[25Jun2025 04:02:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[25Jun2025 04:02:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[25Jun2025 04:03:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Magic Writing]
+[25Jun2025 04:04:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[25Jun2025 04:04:32.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Magic Writing]
+[25Jun2025 04:04:43.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [I see clearly now]
+[25Jun2025 04:05:58.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Spectral Guardian]
+[25Jun2025 04:09:27.520] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 04:09:27.522] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 04:09:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to CHUCHIXD]
+[25Jun2025 04:10:31.567] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 04:10:31.569] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 04:10:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell off a ladder

@@ -4557,6 +4557,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 03:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-06-25 02:42:33 +0000"
@@ -4572,6 +4578,18 @@
   "mcwfurnitures:recipes/crimson": {
     "criteria": {
       "has_wood": "2025-06-24 23:18:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-25 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-25 04:04:43 +0000"
     },
     "done": true
   },
@@ -4599,6 +4617,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-06-25 03:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-06-24 23:50:25 +0000"
@@ -4608,6 +4632,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-24 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-06-25 03:46:37 +0000"
     },
     "done": true
   },
@@ -4641,9 +4671,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-25 03:46:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-25 02:30:52 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/spotlight": {
+    "criteria": {
+      "take_selfie": "2025-06-25 03:44:36 +0000"
     },
     "done": true
   },
@@ -4722,6 +4764,12 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-06-24 21:05:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-25 04:04:32 +0000"
     },
     "done": true
   },
