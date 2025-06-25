@@ -3610,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 02:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-06-25 01:41:29 +0000"
@@ -3673,6 +3679,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-06-25 01:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 02:52:49 +0000"
     },
     "done": true
   },
@@ -3925,6 +3937,12 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-25 02:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 02:52:49 +0000"
     },
     "done": true
   },

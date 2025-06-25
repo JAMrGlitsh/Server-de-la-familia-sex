@@ -290,3 +290,94 @@
 [25Jun2025 02:47:20.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/265775, l='ServerLevel[world]', x=-924.53, y=173.00, z=102.88] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
 [25Jun2025 02:47:25.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/265564, l='ServerLevel[world]', x=-924.71, y=173.00, z=102.82] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
 [25Jun2025 02:47:39.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/265457, l='ServerLevel[world]', x=-934.50, y=173.00, z=105.55] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:51:31.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[25Jun2025 02:51:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[25Jun2025 02:51:38.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Spooky Scary Skeleton]
+[25Jun2025 02:53:38.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273198, l='ServerLevel[world]', x=-932.76, y=156.00, z=160.56] died: Gearling burned to death
+[25Jun2025 02:53:42.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273794, l='ServerLevel[world]', x=-937.40, y=162.02, z=155.22] died: Gearling burned to death
+[25Jun2025 02:53:43.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273443, l='ServerLevel[world]', x=-925.59, y=156.42, z=153.80] died: Gearling burned to death
+[25Jun2025 02:53:47.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273812, l='ServerLevel[world]', x=-934.59, y=161.00, z=166.01] died: Gearling burned to death
+[25Jun2025 02:53:49.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273564, l='ServerLevel[world]', x=-937.30, y=162.00, z=159.96] died: Gearling went up in flames
+[25Jun2025 02:53:52.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273759, l='ServerLevel[world]', x=-934.66, y=156.00, z=158.48] died: Gearling burned to death
+[25Jun2025 02:53:54.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273334, l='ServerLevel[world]', x=-937.50, y=162.00, z=155.22] died: Gearling burned to death
+[25Jun2025 02:53:56.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273531, l='ServerLevel[world]', x=-934.66, y=156.00, z=158.50] died: Gearling was shot by Skeleton
+[25Jun2025 02:53:57.824] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:53:57.830] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:53:59.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273497, l='ServerLevel[world]', x=-935.61, y=156.00, z=158.41] died: Gearling burned to death
+[25Jun2025 02:53:59.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273995, l='ServerLevel[world]', x=-935.21, y=156.42, z=156.80] died: Gearling burned to death
+[25Jun2025 02:54:06.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274055, l='ServerLevel[world]', x=-936.35, y=156.00, z=157.26] died: Gearling burned to death
+[25Jun2025 02:54:07.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273310, l='ServerLevel[world]', x=-928.48, y=157.00, z=156.65] died: Gearling burned to death
+[25Jun2025 02:54:13.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273283, l='ServerLevel[world]', x=-930.74, y=155.00, z=161.50] died: Gearling burned to death
+[25Jun2025 02:54:16.979] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:54:16.984] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:54:18.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273753, l='ServerLevel[world]', x=-935.15, y=157.32, z=158.64] died: Gearling was shot by Skeleton
+[25Jun2025 02:54:18.674] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[25Jun2025 02:54:18.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274101, l='ServerLevel[world]', x=-938.61, y=156.00, z=159.37] died: Gearling was killed trying to hurt Misterchuwa
+[25Jun2025 02:54:18.680] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[25Jun2025 02:54:22.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274225, l='ServerLevel[world]', x=-930.89, y=156.00, z=167.52] died: Gearling was killed trying to hurt Misterchuwa
+[25Jun2025 02:54:23.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273251, l='ServerLevel[world]', x=-934.73, y=155.00, z=159.90] died: Gearling burned to death
+[25Jun2025 02:54:24.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273205, l='ServerLevel[world]', x=-933.71, y=154.75, z=160.45] died: Gearling burned to death
+[25Jun2025 02:54:25.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274187, l='ServerLevel[world]', x=-930.10, y=155.50, z=168.46] died: Gearling was killed trying to hurt Misterchuwa
+[25Jun2025 02:54:27.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273235, l='ServerLevel[world]', x=-930.25, y=155.54, z=168.44] died: Gearling burned to death
+[25Jun2025 02:54:27.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274243, l='ServerLevel[world]', x=-937.33, y=160.00, z=160.59] died: Gearling burned to death
+[25Jun2025 02:54:38.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274253, l='ServerLevel[world]', x=-936.97, y=156.00, z=161.89] died: Gearling burned to death
+[25Jun2025 02:54:39.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274205, l='ServerLevel[world]', x=-931.30, y=153.00, z=156.44] died: Gearling burned to death
+[25Jun2025 02:54:39.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274316, l='ServerLevel[world]', x=-933.97, y=162.00, z=167.39] died: Gearling burned to death
+[25Jun2025 02:54:46.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274395, l='ServerLevel[world]', x=-931.48, y=155.50, z=168.63] died: Gearling burned to death
+[25Jun2025 02:54:53.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274428, l='ServerLevel[world]', x=-931.16, y=153.00, z=156.47] died: Gearling burned to death
+[25Jun2025 02:54:56.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274354, l='ServerLevel[world]', x=-938.20, y=156.00, z=161.04] died: Gearling burned to death
+[25Jun2025 02:54:57.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274441, l='ServerLevel[world]', x=-938.09, y=156.00, z=162.27] died: Gearling burned to death
+[25Jun2025 02:54:58.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274415, l='ServerLevel[world]', x=-936.72, y=156.00, z=162.62] died: Gearling went up in flames
+[25Jun2025 02:54:59.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD burned to death
+[25Jun2025 02:54:59.726] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:55:00.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274472, l='ServerLevel[world]', x=-933.56, y=161.50, z=167.12] died: Gearling burned to death
+[25Jun2025 02:55:10.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273404, l='ServerLevel[world]', x=-926.87, y=156.06, z=163.11] died: Gearling went up in flames
+[25Jun2025 02:55:17.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274405, l='ServerLevel[world]', x=-936.16, y=155.00, z=163.36] died: Gearling burned to death
+[25Jun2025 02:55:18.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Gearling
+[25Jun2025 02:55:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to HEISENBERGXD]
+[25Jun2025 02:55:26.686] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 02:55:26.688] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 02:55:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Discreet Search]
+[25Jun2025 02:55:29.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274464, l='ServerLevel[world]', x=-936.15, y=156.00, z=156.15] died: Gearling burned to death
+[25Jun2025 02:55:32.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275266, l='ServerLevel[world]', x=-936.54, y=161.00, z=165.35] died: Gearling went up in flames
+[25Jun2025 02:55:35.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274895, l='ServerLevel[world]', x=-926.85, y=156.00, z=163.85] died: Gearling went up in flames
+[25Jun2025 02:55:37.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275249, l='ServerLevel[world]', x=-937.51, y=160.00, z=161.56] died: Gearling went up in flames
+[25Jun2025 02:55:52.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to HEISENBERGXD]
+[25Jun2025 02:55:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[25Jun2025 02:55:58.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275558, l='ServerLevel[world]', x=-936.30, y=160.00, z=163.88] died: Gearling went up in flames
+[25Jun2025 02:56:00.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275574, l='ServerLevel[world]', x=-929.66, y=155.00, z=158.43] died: Gearling burned to death
+[25Jun2025 02:56:14.978] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275600, l='ServerLevel[world]', x=-936.82, y=154.00, z=161.85] died: Gearling burned to death
+[25Jun2025 02:56:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[25Jun2025 02:56:52.270] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:56:52.275] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:56:52.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275973, l='ServerLevel[world]', x=-931.52, y=156.00, z=167.48] died: Gearling was slain by Misterchuwa
+[25Jun2025 02:56:57.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275963, l='ServerLevel[world]', x=-931.22, y=155.50, z=168.20] died: Gearling was slain by Misterchuwa
+[25Jun2025 02:57:08.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276092, l='ServerLevel[world]', x=-930.89, y=150.50, z=167.15] died: Gearling was slain by Misterchuwa
+[25Jun2025 02:57:08.666] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:57:08.674] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:57:12.775] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[25Jun2025 02:57:12.778] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[25Jun2025 02:57:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[25Jun2025 02:58:05.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275995, l='ServerLevel[world]', x=-931.10, y=146.00, z=163.56] died: Gearling was slain by Misterchuwa
+[25Jun2025 02:58:16.659] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[25Jun2025 02:58:16.672] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[25Jun2025 02:58:31.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276789, l='ServerLevel[world]', x=-931.87, y=156.00, z=166.76] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:58:31.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276764, l='ServerLevel[world]', x=-931.87, y=156.00, z=166.76] died: 1$s has perished from holy damage
+[25Jun2025 02:58:32.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276807, l='ServerLevel[world]', x=-932.10, y=156.25, z=166.49] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:58:37.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276849, l='ServerLevel[world]', x=-932.15, y=155.75, z=166.23] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:58:37.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276833, l='ServerLevel[world]', x=-936.02, y=160.00, z=165.13] died: Gearling went up in flames
+[25Jun2025 02:58:40.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276057, l='ServerLevel[world]', x=-932.03, y=156.00, z=166.78] died: 1$s has perished from holy damage
+[25Jun2025 02:58:41.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276015, l='ServerLevel[world]', x=-930.89, y=155.00, z=163.67] died: Gearling hit the ground too hard
+[25Jun2025 02:58:56.124] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:58:56.130] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:59:00.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276073, l='ServerLevel[world]', x=-931.19, y=153.00, z=156.15] died: Gearling hit the ground too hard
+[25Jun2025 02:59:07.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276045, l='ServerLevel[world]', x=-930.81, y=144.00, z=168.30] died: Gearling was slain by Misterchuwa
+[25Jun2025 02:59:43.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/277052, l='ServerLevel[world]', x=-927.61, y=153.00, z=164.15] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:59:47.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276885, l='ServerLevel[world]', x=-927.62, y=152.50, z=164.19] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 02:59:48.910] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[25Jun2025 02:59:48.921] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[25Jun2025 02:59:49.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/277044, l='ServerLevel[world]', x=-927.61, y=153.00, z=165.28] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 03:01:25.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/278207, l='ServerLevel[world]', x=-931.40, y=156.00, z=167.41] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 03:01:25.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/278220, l='ServerLevel[world]', x=-931.25, y=156.00, z=166.16] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 03:01:28.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/278226, l='ServerLevel[world]', x=-932.09, y=156.25, z=166.53] died: Gearling was killed by magic whilst trying to escape HEISENBERGXD
+[25Jun2025 03:01:32.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/278240, l='ServerLevel[world]', x=-935.92, y=160.00, z=164.14] died: Gearling went up in flames

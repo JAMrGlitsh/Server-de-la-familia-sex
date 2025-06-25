@@ -4937,6 +4937,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-06-25 02:52:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-06-25 00:45:52 +0000"
@@ -5273,6 +5279,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-25 02:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-06-25 02:04:04 +0000"
@@ -5357,6 +5369,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 02:55:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-25 00:42:39 +0000"
@@ -5378,6 +5396,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-24 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-25 02:51:38 +0000"
     },
     "done": true
   },
