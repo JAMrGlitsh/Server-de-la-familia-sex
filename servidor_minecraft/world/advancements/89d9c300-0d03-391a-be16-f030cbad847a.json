@@ -1152,8 +1152,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-24 19:23:32 +0000",
+      "minecraft:blaze": "2025-06-24 23:43:49 +0000",
       "minecraft:skeleton": "2025-06-23 03:43:22 +0000",
+      "minecraft:ghast": "2025-06-24 23:23:25 +0000",
       "minecraft:hoglin": "2025-06-23 03:40:06 +0000",
+      "minecraft:magma_cube": "2025-06-24 23:57:53 +0000",
       "minecraft:spider": "2025-06-23 05:10:09 +0000",
       "minecraft:creeper": "2025-06-23 23:35:32 +0000",
       "minecraft:phantom": "2025-06-23 05:05:04 +0000",
@@ -1161,6 +1164,7 @@
       "minecraft:wither_skeleton": "2025-06-23 03:39:02 +0000",
       "minecraft:husk": "2025-06-23 03:40:11 +0000",
       "minecraft:cave_spider": "2025-06-24 02:37:24 +0000",
+      "minecraft:piglin": "2025-06-24 23:14:55 +0000",
       "minecraft:enderman": "2025-06-23 23:18:27 +0000",
       "minecraft:zombie": "2025-06-23 03:49:40 +0000",
       "minecraft:drowned": "2025-06-23 22:51:10 +0000",
@@ -4476,9 +4480,16 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-24 23:11:07 +0000",
-      "minecraft:nether_wastes": "2025-06-24 23:13:20 +0000"
+      "minecraft:nether_wastes": "2025-06-24 23:13:20 +0000",
+      "minecraft:soul_sand_valley": "2025-06-24 23:23:30 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-24 23:46:37 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
@@ -4528,15 +4539,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-06-24 22:53:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-24 23:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-24 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-24 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-24 23:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-24 23:59:21 +0000"
     },
     "done": true
   },
@@ -4558,9 +4611,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-24 23:48:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-24 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-24 23:48:18 +0000"
     },
     "done": true
   },
@@ -4576,6 +4659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-24 23:12:46 +0000"
@@ -4585,6 +4674,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-06-24 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
     },
     "done": true
   },
@@ -4612,9 +4707,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-24 23:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-06-24 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-24 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-24 23:44:50 +0000"
     },
     "done": true
   },
@@ -4633,6 +4746,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-24 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-24 23:46:37 +0000"
     },
     "done": true
   },
