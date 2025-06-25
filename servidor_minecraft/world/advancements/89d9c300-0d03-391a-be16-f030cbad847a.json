@@ -29,6 +29,7 @@
       "minecraft:badlands": "2025-06-23 03:32:23 +0000",
       "minecraft:savanna_plateau": "2025-06-24 19:13:28 +0000",
       "minecraft:beach": "2025-06-23 22:41:27 +0000",
+      "minecraft:mangrove_swamp": "2025-06-25 01:29:24 +0000",
       "minecraft:sparse_jungle": "2025-06-23 22:42:42 +0000",
       "minecraft:river": "2025-06-23 04:01:04 +0000",
       "minecraft:lukewarm_ocean": "2025-06-23 23:04:22 +0000",
@@ -4896,6 +4897,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-06-24 22:52:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-06-25 01:33:00 +0000"
     },
     "done": true
   },

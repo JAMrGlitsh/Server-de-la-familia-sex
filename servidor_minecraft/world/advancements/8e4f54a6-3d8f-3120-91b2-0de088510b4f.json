@@ -28,6 +28,7 @@
       "minecraft:badlands": "2025-06-23 22:04:30 +0000",
       "minecraft:savanna_plateau": "2025-06-24 00:56:35 +0000",
       "minecraft:beach": "2025-06-23 22:41:13 +0000",
+      "minecraft:mangrove_swamp": "2025-06-25 01:29:24 +0000",
       "minecraft:sparse_jungle": "2025-06-23 22:42:23 +0000",
       "minecraft:lukewarm_ocean": "2025-06-24 01:39:24 +0000",
       "minecraft:river": "2025-06-23 22:13:24 +0000",
@@ -3540,9 +3541,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-06-25 01:33:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-25 01:24:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-06-25 01:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
     },
     "done": true
   },
@@ -3558,15 +3577,69 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-25 01:17:10 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-06-25 01:13:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-06-25 01:33:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-06-25 01:33:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-06-25 01:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-06-25 01:33:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-25 01:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-06-25 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-06-25 01:33:33 +0000"
     },
     "done": true
   },

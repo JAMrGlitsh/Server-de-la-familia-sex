@@ -4020,5 +4020,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-25 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-25 01:29:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
