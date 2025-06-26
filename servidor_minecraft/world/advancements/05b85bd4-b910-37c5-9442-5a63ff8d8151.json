@@ -4792,6 +4792,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
+    "criteria": {
+      "has_block": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-06-26 02:20:23 +0000"
@@ -4801,6 +4807,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:41:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4819,6 +4831,12 @@
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-06-26 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4846,9 +4864,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-06-26 02:41:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate": {
+    "criteria": {
+      "has_block": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate": {
+    "criteria": {
+      "has_item": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4858,9 +4894,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/copying_color_photograph": {
     "criteria": {
       "has_photograph": "2025-06-26 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4900,6 +4948,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:34:59 +0000"
@@ -4918,9 +4972,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4933,6 +4999,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4954,6 +5026,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-06-26 02:53:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-26 02:33:12 +0000"
@@ -4966,9 +5062,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cobbled_deepslate_wall": {
+    "criteria": {
+      "has_block": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -4984,6 +5092,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:33:39 +0000"
@@ -4996,15 +5110,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
       "has_photograph": "2025-06-26 02:42:44 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-06-26 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -5032,6 +5170,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-06-26 02:33:39 +0000"
@@ -5053,6 +5197,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-06-26 02:41:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
     },
     "done": true
   },

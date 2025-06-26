@@ -3885,3 +3885,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 02:51:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
 [26Jun2025 02:52:22.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 02:52:22.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:53:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Leeroy Is Back]
+[26Jun2025 02:55:51.788] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 02:55:51.791] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 02:57:22.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 02:57:22.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:59:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Your First Receptacle]
+[26Jun2025 02:59:59.382] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/20282, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[26Jun2025 02:59:59.383] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/20282, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[26Jun2025 02:59:59.383] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Zombie['entity.easy_npc.husk'/20282, l='ServerLevel[world]', x=-261.50, y=64.50, z=1199.50] ...
+[26Jun2025 02:59:59.389] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Zombie['entity.easy_npc.husk'/20282, l='ServerLevel[world]', x=-261.50, y=64.50, z=1199.50] ...
+[26Jun2025 02:59:59.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Bound Forever]
+[26Jun2025 02:59:59.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Let The Magic Happen]
+[26Jun2025 03:02:22.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 03:02:22.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

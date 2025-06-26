@@ -5432,6 +5432,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-06-26 02:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-26 02:06:29 +0000"
@@ -5456,9 +5462,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-26 02:59:49 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
       "has_photograph": "2025-06-26 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-06-26 02:59:59 +0000"
     },
     "done": true
   },
