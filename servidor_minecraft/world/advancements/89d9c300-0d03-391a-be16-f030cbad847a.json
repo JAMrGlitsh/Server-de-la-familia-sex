@@ -5438,6 +5438,12 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-06-26 02:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-06-26 02:06:29 +0000"
@@ -5447,6 +5453,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-06-26 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-06-26 02:43:55 +0000"
     },
     "done": true
   },
