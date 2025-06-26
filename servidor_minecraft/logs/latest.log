@@ -490,3 +490,5 @@
 [26Jun2025 02:59:59.389] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Zombie['entity.easy_npc.husk'/20282, l='ServerLevel[world]', x=-261.50, y=64.50, z=1199.50] ...
 [26Jun2025 02:59:59.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Bound Forever]
 [26Jun2025 02:59:59.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Let The Magic Happen]
+[26Jun2025 03:05:05.884] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[26Jun2025 03:05:05.886] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
