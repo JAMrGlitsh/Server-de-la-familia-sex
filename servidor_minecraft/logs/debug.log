@@ -3829,3 +3829,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 16:17:58.923] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
 [26Jun2025 16:17:58.923] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [26Jun2025 16:18:02.062] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750954682062
+[26Jun2025 16:18:37.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 16:18:37.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 16:23:37.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 16:23:37.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 16:23:51.442] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "JAGlitsh" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-250, y=72, z=1168}] too quickly!
+[26Jun2025 16:28:37.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 16:28:37.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

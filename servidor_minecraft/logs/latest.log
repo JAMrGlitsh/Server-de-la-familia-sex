@@ -597,3 +597,4 @@
 [26Jun2025 15:50:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
 [26Jun2025 16:17:56.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53226] logged in with entity id 13399 at (-273.30000001192093, 71.0, 1462.592169002639)
 [26Jun2025 16:17:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[26Jun2025 16:23:51.442] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "JAGlitsh" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-250, y=72, z=1168}] too quickly!
