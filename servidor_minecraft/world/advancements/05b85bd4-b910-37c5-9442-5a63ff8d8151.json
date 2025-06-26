@@ -5433,15 +5433,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 14:43:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-06-26 15:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
     },
     "done": true
   },
@@ -5469,6 +5487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
       "has_netherite_chestplate": "2025-06-26 15:37:50 +0000"
@@ -5478,6 +5502,24 @@
   "securitycraft:recipes/transportation/jungle_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 14:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
     },
     "done": true
   },
@@ -5493,6 +5535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/acacia_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 14:43:20 +0000"
@@ -5502,6 +5550,12 @@
   "securitycraft:recipes/transportation/oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-26 14:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 15:53:11 +0000"
     },
     "done": true
   },
