@@ -3911,3 +3911,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 03:18:51.138] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [26Jun2025 03:22:22.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 03:22:22.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 03:23:12.084] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[26Jun2025 03:23:12.087] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 03:23:29.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh burned to death
+[26Jun2025 03:23:29.288] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-253, y:65, z:1162, dim:minecraft:overworld]
+[26Jun2025 03:23:29.290] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[26Jun2025 03:23:39.255] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750908219255
+[26Jun2025 03:27:22.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 03:27:22.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 03:27:24.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=59, z=1208} BlockPos{x=-243, y=60, z=1208}
+[26Jun2025 03:27:27.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=56, z=1211} BlockPos{x=-241, y=57, z=1211}
+[26Jun2025 03:27:28.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=56, z=1211} BlockPos{x=-240, y=57, z=1211}
+[26Jun2025 03:30:59.212] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -4442 -56 6285 in 1s
+[26Jun2025 03:31:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Journey Begins]
+[26Jun2025 03:32:17.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[26Jun2025 03:32:17.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[26Jun2025 03:32:22.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 03:32:22.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 03:32:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to CHUCHIXD]
