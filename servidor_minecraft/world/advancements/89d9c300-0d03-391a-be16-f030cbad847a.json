@@ -37,6 +37,7 @@
       "minecraft:forest": "2025-06-23 22:34:34 +0000",
       "minecraft:desert": "2025-06-23 04:01:01 +0000",
       "minecraft:jungle": "2025-06-23 23:02:40 +0000",
+      "minecraft:deep_dark": "2025-06-26 02:17:53 +0000",
       "minecraft:savanna": "2025-06-24 19:09:47 +0000",
       "minecraft:plains": "2025-06-23 22:42:20 +0000"
     },
@@ -5440,6 +5441,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-06-26 02:06:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-26 02:17:53 +0000"
     },
     "done": true
   },

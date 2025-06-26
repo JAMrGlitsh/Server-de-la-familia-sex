@@ -4792,5 +4792,11 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-26 02:20:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
