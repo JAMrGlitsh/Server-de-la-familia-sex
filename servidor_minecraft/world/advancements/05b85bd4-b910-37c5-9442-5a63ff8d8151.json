@@ -25,6 +25,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-26 04:30:12 +0000",
+      "minecraft:taiga": "2025-06-26 04:16:55 +0000",
+      "minecraft:cherry_grove": "2025-06-26 04:33:52 +0000",
       "minecraft:sunflower_plains": "2025-06-26 03:52:58 +0000",
       "minecraft:birch_forest": "2025-06-26 03:58:34 +0000",
       "minecraft:wooded_badlands": "2025-06-24 19:21:38 +0000",
@@ -36,11 +39,14 @@
       "minecraft:river": "2025-06-23 03:58:13 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 03:26:46 +0000",
       "minecraft:dripstone_caves": "2025-06-23 03:42:58 +0000",
+      "minecraft:grove": "2025-06-26 04:20:54 +0000",
       "minecraft:forest": "2025-06-23 22:34:34 +0000",
       "minecraft:desert": "2025-06-23 03:58:44 +0000",
       "minecraft:jungle": "2025-06-25 02:30:56 +0000",
       "minecraft:ocean": "2025-06-26 03:58:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 04:36:26 +0000",
       "minecraft:warm_ocean": "2025-06-25 03:27:28 +0000",
+      "minecraft:meadow": "2025-06-26 04:28:01 +0000",
       "minecraft:savanna": "2025-06-25 04:24:47 +0000",
       "minecraft:plains": "2025-06-23 22:42:25 +0000"
     },
@@ -4875,6 +4881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-26 02:36:19 +0000"
@@ -5049,6 +5061,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-26 04:38:26 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_radio": {
     "criteria": {
       "listen_to_radio": "2025-06-26 04:02:48 +0000"
@@ -5058,6 +5076,12 @@
   "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-26 04:22:56 +0000"
     },
     "done": true
   },
@@ -5124,6 +5148,12 @@
   "securitycraft:recipes/redstone/inventory_scanner": {
     "criteria": {
       "has_stone": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:33:50 +0000"
     },
     "done": true
   },
@@ -5223,6 +5253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-26 03:58:01 +0000"
@@ -5247,9 +5283,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:33:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-06-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-26 04:31:21 +0000"
     },
     "done": true
   },

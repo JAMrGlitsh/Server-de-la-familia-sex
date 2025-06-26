@@ -527,3 +527,16 @@
 [26Jun2025 04:02:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [A Live music]
 [26Jun2025 04:11:05.474] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
 [26Jun2025 04:11:05.482] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[26Jun2025 04:13:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has completed the challenge [Just a Flesh Wound]
+[26Jun2025 04:21:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -3060.500000, 112.500000, 4376.500000]
+[26Jun2025 04:22:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Light as a Rabbit]
+[26Jun2025 04:22:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Light as a Rabbit]
+[26Jun2025 04:27:03.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 04:32:50.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 04:35:11.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[26Jun2025 04:38:32.782] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: regenerating cave biome map, incorrect biome minecraft:taiga found at -4442 -56 6285, should be alexscaves:primordial_caves
+[26Jun2025 04:38:34.737] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3681 -56 13650 in 1s
+[26Jun2025 04:40:53.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[26Jun2025 04:40:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[26Jun2025 04:40:56.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[26Jun2025 04:40:56.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game

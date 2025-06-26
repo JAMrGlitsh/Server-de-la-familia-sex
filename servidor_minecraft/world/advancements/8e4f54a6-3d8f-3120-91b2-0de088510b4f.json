@@ -25,6 +25,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-26 04:30:20 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-26 04:26:40 +0000",
+      "minecraft:taiga": "2025-06-26 04:16:58 +0000",
+      "minecraft:cherry_grove": "2025-06-26 04:33:56 +0000",
       "minecraft:sunflower_plains": "2025-06-26 03:53:18 +0000",
       "minecraft:birch_forest": "2025-06-26 03:58:34 +0000",
       "minecraft:wooded_badlands": "2025-06-25 03:58:44 +0000",
@@ -36,10 +40,13 @@
       "minecraft:sparse_jungle": "2025-06-23 22:42:23 +0000",
       "minecraft:lukewarm_ocean": "2025-06-24 01:39:24 +0000",
       "minecraft:river": "2025-06-23 22:13:24 +0000",
+      "minecraft:grove": "2025-06-26 04:20:59 +0000",
       "minecraft:forest": "2025-06-23 22:34:26 +0000",
       "minecraft:desert": "2025-06-23 22:13:16 +0000",
       "minecraft:jungle": "2025-06-25 03:36:44 +0000",
       "minecraft:ocean": "2025-06-26 03:58:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 04:36:28 +0000",
+      "minecraft:meadow": "2025-06-26 04:24:31 +0000",
       "minecraft:savanna": "2025-06-24 00:53:01 +0000",
       "minecraft:plains": "2025-06-23 22:42:09 +0000"
     },
@@ -4201,15 +4208,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-26 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-26 04:26:37 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-06-26 03:45:13 +0000"
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-26 04:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-26 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-26 04:21:58 +0000"
     },
     "done": true
   },
@@ -4231,6 +4262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 04:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-26 04:00:08 +0000"
@@ -4246,6 +4283,12 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-06-26 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-06-26 04:22:34 +0000"
     },
     "done": true
   },
@@ -4303,9 +4346,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-26 04:38:41 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_radio": {
     "criteria": {
       "listen_to_radio": "2025-06-26 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-26 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:19:23 +0000"
     },
     "done": true
   },
@@ -4345,6 +4406,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-26 04:33:56 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-26 04:26:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-06-26 02:47:49 +0000"
@@ -4363,6 +4442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 04:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-26 04:08:38 +0000"
@@ -4372,6 +4457,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-06-26 02:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 04:34:20 +0000"
     },
     "done": true
   },
@@ -4393,9 +4484,27 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-26 04:31:30 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
       "has_photograph": "2025-06-26 02:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 04:19:23 +0000"
     },
     "done": true
   },
@@ -4414,6 +4523,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-06-26 03:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-26 04:19:23 +0000"
     },
     "done": true
   },
@@ -4450,6 +4565,12 @@
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-06-26 02:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-26 04:21:58 +0000"
     },
     "done": true
   },
