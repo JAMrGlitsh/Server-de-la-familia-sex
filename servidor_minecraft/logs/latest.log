@@ -595,3 +595,5 @@
 [26Jun2025 15:48:30.183] [Server thread/INFO] [Easy NPC/]: Opening menu d0ee8416-a22e-4e49-9dd4-d46fd7245d35 for npc 87325ce6-98d4-4def-a35b-a75de45c6b92 and player ServerPlayer['JAGlitsh'/710, l='ServerLevel[world]', x=-266.20, y=64.00, z=1168.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Monse]}]
 [26Jun2025 15:48:32.178] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Monse'/1973, l='ServerLevel[world]', x=-264.50, y=64.00, z=1168.50] requested by ServerPlayer['JAGlitsh'/710, l='ServerLevel[world]', x=-266.20, y=64.00, z=1168.50]
 [26Jun2025 15:50:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[26Jun2025 16:17:56.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:53226] logged in with entity id 13399 at (-273.30000001192093, 71.0, 1462.592169002639)
+[26Jun2025 16:17:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
